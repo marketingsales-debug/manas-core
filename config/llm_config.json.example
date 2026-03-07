@@ -1,0 +1,32 @@
+{
+    "default_local": {
+        "provider": "ollama",
+        "model": "llama3.1",
+        "base_url": "http://localhost:11434/api"
+    },
+    "default_cloud": {
+        "provider": "groq",
+        "model": "llama3-70b-8192",
+        "api_key": ""
+    },
+    "vision": {
+        "provider": "gemini",
+        "model": "gemini-2.0-flash",
+        "api_key": ""
+    },
+    "complex_coding": {
+        "provider": "anthropic",
+        "model": "claude-3-5-sonnet-20240620",
+        "api_key": ""
+    },
+    "audio": {
+        "provider": "openai",
+        "model": "whisper-1",
+        "api_key": ""
+    },
+    "default_mistral": {
+        "provider": "mistral",
+        "model": "mistral-large-latest",
+        "api_key": ""
+    }
+}
