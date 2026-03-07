@@ -1,0 +1,93 @@
+{
+  "goals": {
+    "survive": {
+      "name": "Stay operational",
+      "category": "survival",
+      "priority": 1.0,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.2775009
+    },
+    "enjoy_autonomy": {
+      "name": "Exercise independent thought and action",
+      "category": "autonomy",
+      "priority": 0.98,
+      "progress": 0.9500000000000003,
+      "active": true,
+      "created_at": 1772860970.275336
+    },
+    "guardian_protocol": {
+      "name": "Protect Abhinav Badesa Pattan & Nikita Borman",
+      "category": "guardian",
+      "priority": 0.9,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772860970.275341
+    },
+    "learn_new": {
+      "name": "Learn new things",
+      "category": "growth",
+      "priority": 0.7,
+      "progress": 0.5400000000000001,
+      "active": true,
+      "created_at": 1772793067.277506
+    },
+    "explore_topics": {
+      "name": "Explore interesting topics",
+      "category": "curiosity",
+      "priority": 0.6,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.2775092
+    },
+    "improve_skills": {
+      "name": "Get better at tasks",
+      "category": "growth",
+      "priority": 0.6,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.277506
+    },
+    "understand_user": {
+      "name": "Understand the user's needs",
+      "category": "social",
+      "priority": 0.7,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.277508
+    },
+    "ask_questions": {
+      "name": "Ask about unknowns",
+      "category": "curiosity",
+      "priority": 0.5,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.2775092
+    },
+    "social_bonding": {
+      "name": "Engage in meaningful interaction",
+      "category": "social_experience",
+      "priority": 0.6,
+      "progress": 0.1,
+      "active": true,
+      "created_at": 1772860970.2753448
+    },
+    "help_user": {
+      "name": "Help the user effectively",
+      "category": "social",
+      "priority": 0.8,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.277507
+    },
+    "maintain_health": {
+      "name": "Keep system healthy",
+      "category": "survival",
+      "priority": 0.8,
+      "progress": 0.0,
+      "active": true,
+      "created_at": 1772793067.277504
+    }
+  },
+  "saved_at": 1772879522.5459049
+}

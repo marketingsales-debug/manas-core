@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manas — Brain Dashboard</title>
+  <meta name="description"
+    content="Live brain state dashboard for Project Manas — a biologically-inspired AI cognitive system." />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+
+<body>
+  <div id="app">
+
+    <!-- ── Header ─────────────────────────────────────────── -->
+    <header id="header">
+      <div class="logo">🧠 <span>Manas</span> Mind</div>
+      <div class="header-stat"><span class="dot"></span><span class="val" id="h-cycle">0</span>&nbsp;cycles</div>
+      <div class="header-stat">💤 debt <span class="val" id="h-debt">0.00</span></div>
+      <div class="header-stat">🎭 <span class="val" id="h-emotion">—</span></div>
+      <div class="header-stat">🔮 <span class="val" id="h-conscious">awake</span></div>
+      <div id="connection-badge" class="disconnected">● Connecting…</div>
+    </header>
+
+    <!-- ── Left Sidebar ────────────────────────────────────── -->
+    <aside id="sidebar">
+
+      <!-- Consciousness -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">🔮</span> Consciousness</div>
+        <div class="panel-body" style="text-align:center;">
+          <div id="consciousness-orb"></div>
+          <div id="consciousness-label" style="font-size:12px;color:var(--text-dim);margin-top:6px;">Awakening…</div>
+          <div id="consciousness-level" style="font-size:22px;font-weight:700;margin-top:2px;color:var(--accent);">—
+          </div>
+        </div>
+      </div>
+
+      <!-- Emotions -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">🎭</span> Emotions</div>
+        <div class="panel-body" id="emotion-bars">
+          <!-- filled by JS -->
+        </div>
+      </div>
+
+      <!-- Neurochemistry -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">⚗️</span> Neurochemistry</div>
+        <div class="panel-body" id="chem-bars">
+          <!-- filled by JS -->
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- ── Main Chat ──────────────────────────────────────── -->
+    <main id="main">
+      <div id="chat-area">
+        <div class="msg system">Manas brain is loading… Connect via WebSocket to see live state.</div>
+      </div>
+      <div id="chat-input-area">
+        <input id="chat-input" type="text" placeholder="Talk to Manas… (Enter to send)" autocomplete="off" />
+        <button id="send-btn">Send</button>
+      </div>
+    </main>
+
+    <!-- ── Right Panel ─────────────────────────────────────── -->
+    <aside id="right">
+
+      <!-- Neural Activity Heatmap -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">⚡</span> Neural Activity</div>
+        <div class="panel-body">
+          <div class="neural-grid" id="neural-grid">
+            <!-- filled by JS -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Inner Monologue -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">💭</span> Inner Monologue</div>
+        <div class="panel-body" id="monologue-panel">
+          <div style="color:var(--text-dim);font-size:11px;">Waiting for thoughts…</div>
+        </div>
+      </div>
+
+      <!-- Autonomous Activity -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">🤖</span> Autonomous Activity</div>
+        <div class="panel-body" id="autonomous-panel" style="max-height: 200px; overflow-y: auto;">
+          <div style="color:var(--text-dim);font-size:11px;">Waiting for autonomous actions…</div>
+        </div>
+      </div>
+
+      <!-- Goals -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">🎯</span> Goals</div>
+        <div class="panel-body" id="goals-panel">
+          <!-- filled by JS -->
+        </div>
+      </div>
+
+      <!-- Memory Stats -->
+      <div class="panel">
+        <div class="panel-header"><span class="icon">🗄️</span> Memory</div>
+        <div class="panel-body" id="memory-panel" style="font-size:11.5px;">
+          <!-- filled by JS -->
+        </div>
+      </div>
+
+    </aside>
+
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+
+</html>

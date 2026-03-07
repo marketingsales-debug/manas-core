@@ -1,0 +1,7006 @@
+{
+  "history": [
+    {
+      "timestamp": 1772836153.7848241,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2866,
+      "cost": 0.005732
+    },
+    {
+      "timestamp": 1772836265.743413,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 777,
+      "cost": 0.0015539999999999998
+    },
+    {
+      "timestamp": 1772836294.062463,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2052,
+      "cost": 0.004104
+    },
+    {
+      "timestamp": 1772836309.9399302,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1434,
+      "cost": 0.002868
+    },
+    {
+      "timestamp": 1772836345.6262772,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2665,
+      "cost": 0.00533
+    },
+    {
+      "timestamp": 1772836474.524759,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772836502.654135,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2060,
+      "cost": 0.0041199999999999995
+    },
+    {
+      "timestamp": 1772836520.0999901,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772836576.965705,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2864,
+      "cost": 0.005728
+    },
+    {
+      "timestamp": 1772836685.774683,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 791,
+      "cost": 0.0015819999999999999
+    },
+    {
+      "timestamp": 1772836716.773084,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1725,
+      "cost": 0.00345
+    },
+    {
+      "timestamp": 1772836730.006083,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772836785.564872,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2866,
+      "cost": 0.005732
+    },
+    {
+      "timestamp": 1772836896.214089,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 758,
+      "cost": 0.001516
+    },
+    {
+      "timestamp": 1772836924.460465,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2058,
+      "cost": 0.004116
+    },
+    {
+      "timestamp": 1772836962.3697972,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772836988.267589,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772837106.2686741,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772837140.245149,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2081,
+      "cost": 0.004162
+    },
+    {
+      "timestamp": 1772837150.365879,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772837186.876045,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772837315.631505,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 740,
+      "cost": 0.00148
+    },
+    {
+      "timestamp": 1772837354.955476,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2056,
+      "cost": 0.004112
+    },
+    {
+      "timestamp": 1772837360.118028,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1395,
+      "cost": 0.00279
+    },
+    {
+      "timestamp": 1772837397.177412,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2410,
+      "cost": 0.00482
+    },
+    {
+      "timestamp": 1772837525.752256,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 777,
+      "cost": 0.0015539999999999998
+    },
+    {
+      "timestamp": 1772837556.989967,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1677,
+      "cost": 0.0033539999999999998
+    },
+    {
+      "timestamp": 1772837570.913005,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772837625.305383,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772837735.6890109,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 757,
+      "cost": 0.001514
+    },
+    {
+      "timestamp": 1772837780.438365,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1408,
+      "cost": 0.002816
+    },
+    {
+      "timestamp": 1772837784.642837,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2073,
+      "cost": 0.0041459999999999995
+    },
+    {
+      "timestamp": 1772837816.85636,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2867,
+      "cost": 0.0057339999999999995
+    },
+    {
+      "timestamp": 1772837945.7637382,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 754,
+      "cost": 0.001508
+    },
+    {
+      "timestamp": 1772837980.5654101,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2097,
+      "cost": 0.004194
+    },
+    {
+      "timestamp": 1772837989.848989,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772838027.265988,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772838156.432317,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 756,
+      "cost": 0.0015119999999999999
+    },
+    {
+      "timestamp": 1772838185.319165,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2078,
+      "cost": 0.004156
+    },
+    {
+      "timestamp": 1772838200.362249,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1392,
+      "cost": 0.002784
+    },
+    {
+      "timestamp": 1772838235.951898,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2433,
+      "cost": 0.004866
+    },
+    {
+      "timestamp": 1772838366.152769,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 785,
+      "cost": 0.00157
+    },
+    {
+      "timestamp": 1772838404.4756749,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2114,
+      "cost": 0.004228
+    },
+    {
+      "timestamp": 1772838410.407351,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772838468.374732,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2934,
+      "cost": 0.005868
+    },
+    {
+      "timestamp": 1772838575.885113,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 747,
+      "cost": 0.0014939999999999999
+    },
+    {
+      "timestamp": 1772838598.350176,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1643,
+      "cost": 0.003286
+    },
+    {
+      "timestamp": 1772838621.5996501,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772838656.923836,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2434,
+      "cost": 0.004868
+    },
+    {
+      "timestamp": 1772838786.6420422,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 783,
+      "cost": 0.001566
+    },
+    {
+      "timestamp": 1772838822.093979,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2074,
+      "cost": 0.004148
+    },
+    {
+      "timestamp": 1772838831.044252,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1391,
+      "cost": 0.0027819999999999998
+    },
+    {
+      "timestamp": 1772838865.3679318,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772838998.7149608,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 810,
+      "cost": 0.00162
+    },
+    {
+      "timestamp": 1772839041.274605,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1429,
+      "cost": 0.002858
+    },
+    {
+      "timestamp": 1772839057.93007,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2151,
+      "cost": 0.004301999999999999
+    },
+    {
+      "timestamp": 1772839090.1452968,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1685,
+      "cost": 0.0033699999999999997
+    },
+    {
+      "timestamp": 1772839207.3780649,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 826,
+      "cost": 0.0016519999999999998
+    },
+    {
+      "timestamp": 1772839251.7633212,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1443,
+      "cost": 0.0028859999999999997
+    },
+    {
+      "timestamp": 1772839288.948687,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2925,
+      "cost": 0.00585
+    },
+    {
+      "timestamp": 1772839298.285693,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1673,
+      "cost": 0.003346
+    },
+    {
+      "timestamp": 1772839416.5103948,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 764,
+      "cost": 0.0015279999999999998
+    },
+    {
+      "timestamp": 1772839453.154036,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2099,
+      "cost": 0.0041979999999999995
+    },
+    {
+      "timestamp": 1772839461.983489,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1431,
+      "cost": 0.002862
+    },
+    {
+      "timestamp": 1772839498.974764,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772839628.056756,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772839655.298313,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2085,
+      "cost": 0.00417
+    },
+    {
+      "timestamp": 1772839670.961683,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772839706.42081,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772839836.493658,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 760,
+      "cost": 0.0015199999999999999
+    },
+    {
+      "timestamp": 1772839868.439355,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1672,
+      "cost": 0.0033439999999999998
+    },
+    {
+      "timestamp": 1772839881.35097,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772839897.727303,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772840047.368685,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 750,
+      "cost": 0.0015
+    },
+    {
+      "timestamp": 1772840090.4819,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2089,
+      "cost": 0.004177999999999999
+    },
+    {
+      "timestamp": 1772840091.93518,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1407,
+      "cost": 0.0028139999999999997
+    },
+    {
+      "timestamp": 1772840127.9218938,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2916,
+      "cost": 0.0058319999999999995
+    },
+    {
+      "timestamp": 1772840256.793776,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 758,
+      "cost": 0.001516
+    },
+    {
+      "timestamp": 1772840286.103179,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1663,
+      "cost": 0.003326
+    },
+    {
+      "timestamp": 1772840301.5895948,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772840328.672966,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772840467.0347881,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 771,
+      "cost": 0.001542
+    },
+    {
+      "timestamp": 1772840490.268267,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1670,
+      "cost": 0.0033399999999999997
+    },
+    {
+      "timestamp": 1772840513.512585,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1485,
+      "cost": 0.00297
+    },
+    {
+      "timestamp": 1772840551.127465,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2889,
+      "cost": 0.005778
+    },
+    {
+      "timestamp": 1772840677.147415,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 756,
+      "cost": 0.0015119999999999999
+    },
+    {
+      "timestamp": 1772840706.1276312,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2097,
+      "cost": 0.004194
+    },
+    {
+      "timestamp": 1772840721.987164,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772840738.1120892,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772840887.3870358,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 766,
+      "cost": 0.001532
+    },
+    {
+      "timestamp": 1772840924.014982,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2074,
+      "cost": 0.004148
+    },
+    {
+      "timestamp": 1772840931.620401,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772840987.5929222,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772841100.434507,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 774,
+      "cost": 0.001548
+    },
+    {
+      "timestamp": 1772841123.713602,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1673,
+      "cost": 0.003346
+    },
+    {
+      "timestamp": 1772841142.2280161,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772841161.640806,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772841307.84912,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 778,
+      "cost": 0.0015559999999999999
+    },
+    {
+      "timestamp": 1772841342.6903229,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2108,
+      "cost": 0.004216
+    },
+    {
+      "timestamp": 1772841351.776551,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772841388.743937,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2866,
+      "cost": 0.005732
+    },
+    {
+      "timestamp": 1772841517.771462,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772841553.0112472,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2142,
+      "cost": 0.004284
+    },
+    {
+      "timestamp": 1772841563.849856,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772841598.715904,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2441,
+      "cost": 0.004882
+    },
+    {
+      "timestamp": 1772841728.426589,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 781,
+      "cost": 0.001562
+    },
+    {
+      "timestamp": 1772841764.0879848,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2072,
+      "cost": 0.004144
+    },
+    {
+      "timestamp": 1772841772.4549088,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772841828.565808,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2872,
+      "cost": 0.005744
+    },
+    {
+      "timestamp": 1772841938.048757,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772841973.862491,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2085,
+      "cost": 0.00417
+    },
+    {
+      "timestamp": 1772841982.474265,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1395,
+      "cost": 0.00279
+    },
+    {
+      "timestamp": 1772842028.569234,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2435,
+      "cost": 0.00487
+    },
+    {
+      "timestamp": 1772842147.966877,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 753,
+      "cost": 0.001506
+    },
+    {
+      "timestamp": 1772842175.3608341,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2071,
+      "cost": 0.004142
+    },
+    {
+      "timestamp": 1772842193.218453,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1425,
+      "cost": 0.0028499999999999997
+    },
+    {
+      "timestamp": 1772842228.9613461,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2655,
+      "cost": 0.00531
+    },
+    {
+      "timestamp": 1772842358.29457,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 756,
+      "cost": 0.0015119999999999999
+    },
+    {
+      "timestamp": 1772842386.95603,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2078,
+      "cost": 0.004156
+    },
+    {
+      "timestamp": 1772842403.115872,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772842419.935047,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2420,
+      "cost": 0.00484
+    },
+    {
+      "timestamp": 1772842568.48359,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 774,
+      "cost": 0.001548
+    },
+    {
+      "timestamp": 1772842595.564257,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2085,
+      "cost": 0.00417
+    },
+    {
+      "timestamp": 1772842613.210339,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1415,
+      "cost": 0.00283
+    },
+    {
+      "timestamp": 1772842671.975967,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2832,
+      "cost": 0.005664
+    },
+    {
+      "timestamp": 1772842778.954409,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 785,
+      "cost": 0.00157
+    },
+    {
+      "timestamp": 1772842813.381438,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2075,
+      "cost": 0.00415
+    },
+    {
+      "timestamp": 1772842824.421252,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772842860.361939,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772842988.7462559,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 758,
+      "cost": 0.001516
+    },
+    {
+      "timestamp": 1772843033.041491,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772843083.556376,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1645,
+      "cost": 0.00329
+    },
+    {
+      "timestamp": 1772843091.145808,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2933,
+      "cost": 0.005866
+    },
+    {
+      "timestamp": 1772843198.235542,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772843233.802193,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2065,
+      "cost": 0.00413
+    },
+    {
+      "timestamp": 1772843243.8920782,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1436,
+      "cost": 0.002872
+    },
+    {
+      "timestamp": 1772843261.1910222,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2420,
+      "cost": 0.00484
+    },
+    {
+      "timestamp": 1772843408.59901,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 751,
+      "cost": 0.0015019999999999999
+    },
+    {
+      "timestamp": 1772843443.1114151,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2072,
+      "cost": 0.004144
+    },
+    {
+      "timestamp": 1772843453.242646,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772843508.378369,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2880,
+      "cost": 0.0057599999999999995
+    },
+    {
+      "timestamp": 1772843618.9386501,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 763,
+      "cost": 0.001526
+    },
+    {
+      "timestamp": 1772843646.579,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2098,
+      "cost": 0.004196
+    },
+    {
+      "timestamp": 1772843663.529258,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1411,
+      "cost": 0.002822
+    },
+    {
+      "timestamp": 1772843700.022699,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772843829.46308,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772843865.064689,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2099,
+      "cost": 0.0041979999999999995
+    },
+    {
+      "timestamp": 1772843873.4991648,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772843909.536627,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2431,
+      "cost": 0.004862
+    },
+    {
+      "timestamp": 1772844039.907663,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 761,
+      "cost": 0.001522
+    },
+    {
+      "timestamp": 1772844084.2362082,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1431,
+      "cost": 0.002862
+    },
+    {
+      "timestamp": 1772844118.9742541,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772844122.743764,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1660,
+      "cost": 0.00332
+    },
+    {
+      "timestamp": 1772844249.3089468,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772844283.47235,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2092,
+      "cost": 0.004184
+    },
+    {
+      "timestamp": 1772844294.1581829,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772844328.046068,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2180,
+      "cost": 0.00436
+    },
+    {
+      "timestamp": 1772844459.216606,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 755,
+      "cost": 0.0015099999999999998
+    },
+    {
+      "timestamp": 1772844489.451402,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1656,
+      "cost": 0.003312
+    },
+    {
+      "timestamp": 1772844504.384774,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1433,
+      "cost": 0.002866
+    },
+    {
+      "timestamp": 1772844521.554293,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2619,
+      "cost": 0.005238
+    },
+    {
+      "timestamp": 1772844669.357646,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772844704.499296,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2093,
+      "cost": 0.004186
+    },
+    {
+      "timestamp": 1772844716.124066,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772844733.7887518,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772844880.06284,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 784,
+      "cost": 0.001568
+    },
+    {
+      "timestamp": 1772844915.527508,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2127,
+      "cost": 0.004254
+    },
+    {
+      "timestamp": 1772844924.1291242,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1400,
+      "cost": 0.0028
+    },
+    {
+      "timestamp": 1772844978.438856,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772845089.796723,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772845117.4617789,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2064,
+      "cost": 0.004128
+    },
+    {
+      "timestamp": 1772845134.550653,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1404,
+      "cost": 0.0028079999999999997
+    },
+    {
+      "timestamp": 1772845190.689198,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2941,
+      "cost": 0.005882
+    },
+    {
+      "timestamp": 1772845300.4572,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 795,
+      "cost": 0.0015899999999999998
+    },
+    {
+      "timestamp": 1772845335.371714,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2104,
+      "cost": 0.004208
+    },
+    {
+      "timestamp": 1772845344.080684,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1368,
+      "cost": 0.0027359999999999997
+    },
+    {
+      "timestamp": 1772845398.407721,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2882,
+      "cost": 0.005764
+    },
+    {
+      "timestamp": 1772845512.37299,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 788,
+      "cost": 0.001576
+    },
+    {
+      "timestamp": 1772845542.1130922,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1700,
+      "cost": 0.0034
+    },
+    {
+      "timestamp": 1772845554.9154181,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1395,
+      "cost": 0.00279
+    },
+    {
+      "timestamp": 1772845609.2066538,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2860,
+      "cost": 0.005719999999999999
+    },
+    {
+      "timestamp": 1772845720.513269,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 795,
+      "cost": 0.0015899999999999998
+    },
+    {
+      "timestamp": 1772845754.769842,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2085,
+      "cost": 0.00417
+    },
+    {
+      "timestamp": 1772845767.907286,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1416,
+      "cost": 0.002832
+    },
+    {
+      "timestamp": 1772845783.884906,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2374,
+      "cost": 0.004748
+    },
+    {
+      "timestamp": 1772845931.443549,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 825,
+      "cost": 0.00165
+    },
+    {
+      "timestamp": 1772845974.762976,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772846021.636056,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1685,
+      "cost": 0.0033699999999999997
+    },
+    {
+      "timestamp": 1772846029.57827,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2864,
+      "cost": 0.005728
+    },
+    {
+      "timestamp": 1772846139.862209,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 748,
+      "cost": 0.001496
+    },
+    {
+      "timestamp": 1772846175.5670998,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2069,
+      "cost": 0.004138
+    },
+    {
+      "timestamp": 1772846184.992227,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1419,
+      "cost": 0.002838
+    },
+    {
+      "timestamp": 1772846220.474853,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2926,
+      "cost": 0.0058519999999999996
+    },
+    {
+      "timestamp": 1772846350.694572,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772846385.301866,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2066,
+      "cost": 0.004131999999999999
+    },
+    {
+      "timestamp": 1772846394.831732,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1378,
+      "cost": 0.0027559999999999998
+    },
+    {
+      "timestamp": 1772846429.659295,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2431,
+      "cost": 0.004862
+    },
+    {
+      "timestamp": 1772846561.020256,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 798,
+      "cost": 0.001596
+    },
+    {
+      "timestamp": 1772846605.389303,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1379,
+      "cost": 0.002758
+    },
+    {
+      "timestamp": 1772846641.370302,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2400,
+      "cost": 0.0048
+    },
+    {
+      "timestamp": 1772846643.650849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1694,
+      "cost": 0.003388
+    },
+    {
+      "timestamp": 1772846771.5409868,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 778,
+      "cost": 0.0015559999999999999
+    },
+    {
+      "timestamp": 1772846807.035327,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2071,
+      "cost": 0.004142
+    },
+    {
+      "timestamp": 1772846815.1266859,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1418,
+      "cost": 0.002836
+    },
+    {
+      "timestamp": 1772846850.1881878,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2925,
+      "cost": 0.00585
+    },
+    {
+      "timestamp": 1772846980.746679,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 761,
+      "cost": 0.001522
+    },
+    {
+      "timestamp": 1772847015.383986,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2098,
+      "cost": 0.004196
+    },
+    {
+      "timestamp": 1772847026.006408,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1434,
+      "cost": 0.002868
+    },
+    {
+      "timestamp": 1772847044.15152,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2640,
+      "cost": 0.00528
+    },
+    {
+      "timestamp": 1772847190.674582,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772847225.330218,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2059,
+      "cost": 0.004118
+    },
+    {
+      "timestamp": 1772847236.028098,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1425,
+      "cost": 0.0028499999999999997
+    },
+    {
+      "timestamp": 1772847252.8290062,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2415,
+      "cost": 0.00483
+    },
+    {
+      "timestamp": 1772847401.4533849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 782,
+      "cost": 0.0015639999999999999
+    },
+    {
+      "timestamp": 1772847431.735203,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1705,
+      "cost": 0.00341
+    },
+    {
+      "timestamp": 1772847445.539906,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1400,
+      "cost": 0.0028
+    },
+    {
+      "timestamp": 1772847500.438532,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772847612.170872,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 792,
+      "cost": 0.001584
+    },
+    {
+      "timestamp": 1772847655.77074,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1409,
+      "cost": 0.0028179999999999998
+    },
+    {
+      "timestamp": 1772847672.727669,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772847703.9927208,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1649,
+      "cost": 0.0032979999999999997
+    },
+    {
+      "timestamp": 1772847821.669248,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 784,
+      "cost": 0.001568
+    },
+    {
+      "timestamp": 1772847851.4795039,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1720,
+      "cost": 0.00344
+    },
+    {
+      "timestamp": 1772847866.423326,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1443,
+      "cost": 0.0028859999999999997
+    },
+    {
+      "timestamp": 1772847902.814958,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2849,
+      "cost": 0.005698
+    },
+    {
+      "timestamp": 1772848031.592509,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 797,
+      "cost": 0.001594
+    },
+    {
+      "timestamp": 1772848075.80482,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772848124.4362712,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1684,
+      "cost": 0.003368
+    },
+    {
+      "timestamp": 1772848131.6817238,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2848,
+      "cost": 0.005696
+    },
+    {
+      "timestamp": 1772848242.118966,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 796,
+      "cost": 0.0015919999999999999
+    },
+    {
+      "timestamp": 1772848270.729624,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2116,
+      "cost": 0.004232
+    },
+    {
+      "timestamp": 1772848287.700386,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1417,
+      "cost": 0.0028339999999999997
+    },
+    {
+      "timestamp": 1772848323.387824,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2656,
+      "cost": 0.005312
+    },
+    {
+      "timestamp": 1772848451.056094,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772848486.303941,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772848496.274998,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1406,
+      "cost": 0.002812
+    },
+    {
+      "timestamp": 1772848552.569215,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2941,
+      "cost": 0.005882
+    },
+    {
+      "timestamp": 1772848661.4456801,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 751,
+      "cost": 0.0015019999999999999
+    },
+    {
+      "timestamp": 1772848698.830816,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2081,
+      "cost": 0.004162
+    },
+    {
+      "timestamp": 1772848706.96561,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1408,
+      "cost": 0.002816
+    },
+    {
+      "timestamp": 1772848743.045093,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2844,
+      "cost": 0.0056879999999999995
+    },
+    {
+      "timestamp": 1772848872.220491,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 762,
+      "cost": 0.001524
+    },
+    {
+      "timestamp": 1772848902.290545,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1678,
+      "cost": 0.003356
+    },
+    {
+      "timestamp": 1772848916.518788,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1378,
+      "cost": 0.0027559999999999998
+    },
+    {
+      "timestamp": 1772848951.401385,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2170,
+      "cost": 0.00434
+    },
+    {
+      "timestamp": 1772849082.0016232,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772849126.2064042,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1380,
+      "cost": 0.00276
+    },
+    {
+      "timestamp": 1772849161.745225,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772849165.227564,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1620,
+      "cost": 0.00324
+    },
+    {
+      "timestamp": 1772849292.2817721,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 791,
+      "cost": 0.0015819999999999999
+    },
+    {
+      "timestamp": 1772849322.4419851,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1715,
+      "cost": 0.00343
+    },
+    {
+      "timestamp": 1772849337.077583,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1435,
+      "cost": 0.0028699999999999997
+    },
+    {
+      "timestamp": 1772849354.282957,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2411,
+      "cost": 0.004822
+    },
+    {
+      "timestamp": 1772849502.2894871,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 769,
+      "cost": 0.0015379999999999999
+    },
+    {
+      "timestamp": 1772849531.921642,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2090,
+      "cost": 0.00418
+    },
+    {
+      "timestamp": 1772849547.51187,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1415,
+      "cost": 0.00283
+    },
+    {
+      "timestamp": 1772849602.26813,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2959,
+      "cost": 0.005918
+    },
+    {
+      "timestamp": 1772849712.111368,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772849742.68818,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1647,
+      "cost": 0.003294
+    },
+    {
+      "timestamp": 1772849757.850816,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1445,
+      "cost": 0.0028899999999999998
+    },
+    {
+      "timestamp": 1772849793.684661,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2926,
+      "cost": 0.0058519999999999996
+    },
+    {
+      "timestamp": 1772849922.615113,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 773,
+      "cost": 0.0015459999999999998
+    },
+    {
+      "timestamp": 1772849949.841428,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2050,
+      "cost": 0.0040999999999999995
+    },
+    {
+      "timestamp": 1772849967.004239,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772850000.759365,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2416,
+      "cost": 0.0048319999999999995
+    },
+    {
+      "timestamp": 1772850132.536077,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 757,
+      "cost": 0.001514
+    },
+    {
+      "timestamp": 1772850156.0054772,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1674,
+      "cost": 0.003348
+    },
+    {
+      "timestamp": 1772850177.579108,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1382,
+      "cost": 0.002764
+    },
+    {
+      "timestamp": 1772850212.7329679,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2164,
+      "cost": 0.004327999999999999
+    },
+    {
+      "timestamp": 1772850343.467525,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 799,
+      "cost": 0.001598
+    },
+    {
+      "timestamp": 1772850373.879498,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1735,
+      "cost": 0.00347
+    },
+    {
+      "timestamp": 1772850387.292586,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772850403.522746,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2420,
+      "cost": 0.00484
+    },
+    {
+      "timestamp": 1772850552.760057,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 762,
+      "cost": 0.001524
+    },
+    {
+      "timestamp": 1772850580.625078,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2047,
+      "cost": 0.0040939999999999995
+    },
+    {
+      "timestamp": 1772850597.520383,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1405,
+      "cost": 0.00281
+    },
+    {
+      "timestamp": 1772850633.008524,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2437,
+      "cost": 0.004874
+    },
+    {
+      "timestamp": 1772850763.0954728,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 779,
+      "cost": 0.001558
+    },
+    {
+      "timestamp": 1772850790.4492512,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2073,
+      "cost": 0.0041459999999999995
+    },
+    {
+      "timestamp": 1772850806.9948108,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1367,
+      "cost": 0.002734
+    },
+    {
+      "timestamp": 1772850842.233938,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2159,
+      "cost": 0.004318
+    },
+    {
+      "timestamp": 1772850974.387435,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 783,
+      "cost": 0.001566
+    },
+    {
+      "timestamp": 1772851009.384171,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2074,
+      "cost": 0.004148
+    },
+    {
+      "timestamp": 1772851018.20364,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1387,
+      "cost": 0.002774
+    },
+    {
+      "timestamp": 1772851053.2435122,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2159,
+      "cost": 0.004318
+    },
+    {
+      "timestamp": 1772851184.292206,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 792,
+      "cost": 0.001584
+    },
+    {
+      "timestamp": 1772851219.438551,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2108,
+      "cost": 0.004216
+    },
+    {
+      "timestamp": 1772851228.885327,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1424,
+      "cost": 0.002848
+    },
+    {
+      "timestamp": 1772851263.177382,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2896,
+      "cost": 0.005791999999999999
+    },
+    {
+      "timestamp": 1772851394.057131,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 749,
+      "cost": 0.001498
+    },
+    {
+      "timestamp": 1772851429.156767,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2082,
+      "cost": 0.004164
+    },
+    {
+      "timestamp": 1772851438.825411,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1426,
+      "cost": 0.002852
+    },
+    {
+      "timestamp": 1772851456.748523,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2614,
+      "cost": 0.005228
+    },
+    {
+      "timestamp": 1772851607.489886,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 790,
+      "cost": 0.00158
+    },
+    {
+      "timestamp": 1772851649.450709,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772851699.478486,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1661,
+      "cost": 0.003322
+    },
+    {
+      "timestamp": 1772851707.472391,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2938,
+      "cost": 0.005876
+    },
+    {
+      "timestamp": 1772851814.898452,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 780,
+      "cost": 0.00156
+    },
+    {
+      "timestamp": 1772851842.7700841,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2048,
+      "cost": 0.004096
+    },
+    {
+      "timestamp": 1772851859.411791,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1419,
+      "cost": 0.002838
+    },
+    {
+      "timestamp": 1772851877.61452,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2608,
+      "cost": 0.005216
+    },
+    {
+      "timestamp": 1772852029.110792,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772852064.232151,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2058,
+      "cost": 0.004116
+    },
+    {
+      "timestamp": 1772852076.7655091,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772852140.6658719,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772852251.7654662,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 751,
+      "cost": 0.0015019999999999999
+    },
+    {
+      "timestamp": 1772852279.627053,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2060,
+      "cost": 0.0041199999999999995
+    },
+    {
+      "timestamp": 1772852292.74913,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772852309.33412,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2411,
+      "cost": 0.004822
+    },
+    {
+      "timestamp": 1772852462.6746082,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772852494.3539908,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1719,
+      "cost": 0.0034379999999999997
+    },
+    {
+      "timestamp": 1772852506.045297,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772852562.728231,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2942,
+      "cost": 0.0058839999999999995
+    },
+    {
+      "timestamp": 1772852673.274441,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 792,
+      "cost": 0.001584
+    },
+    {
+      "timestamp": 1772852719.0113978,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1379,
+      "cost": 0.002758
+    },
+    {
+      "timestamp": 1772852757.104896,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772852763.4218712,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1657,
+      "cost": 0.0033139999999999997
+    },
+    {
+      "timestamp": 1772852883.599838,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772852930.010752,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772852945.757967,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772852966.7027268,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1635,
+      "cost": 0.00327
+    },
+    {
+      "timestamp": 1772853157.567465,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 757,
+      "cost": 0.001514
+    },
+    {
+      "timestamp": 1772853187.937485,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1660,
+      "cost": 0.00332
+    },
+    {
+      "timestamp": 1772853201.764609,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772853241.445497,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772853370.195612,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772853393.504813,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1652,
+      "cost": 0.0033039999999999996
+    },
+    {
+      "timestamp": 1772853414.750443,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1403,
+      "cost": 0.002806
+    },
+    {
+      "timestamp": 1772853451.27689,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2165,
+      "cost": 0.00433
+    },
+    {
+      "timestamp": 1772853580.270278,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 773,
+      "cost": 0.0015459999999999998
+    },
+    {
+      "timestamp": 1772853617.67581,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2102,
+      "cost": 0.004203999999999999
+    },
+    {
+      "timestamp": 1772853624.986882,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772853691.458365,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2866,
+      "cost": 0.005732
+    },
+    {
+      "timestamp": 1772853794.233292,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 754,
+      "cost": 0.001508
+    },
+    {
+      "timestamp": 1772853830.452791,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2028,
+      "cost": 0.004056
+    },
+    {
+      "timestamp": 1772853835.9073899,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772853890.586259,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2942,
+      "cost": 0.0058839999999999995
+    },
+    {
+      "timestamp": 1772854002.047931,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 783,
+      "cost": 0.001566
+    },
+    {
+      "timestamp": 1772854036.1565871,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2102,
+      "cost": 0.004203999999999999
+    },
+    {
+      "timestamp": 1772854046.272467,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772854096.060846,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772854213.165498,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772854249.7494779,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2079,
+      "cost": 0.004158
+    },
+    {
+      "timestamp": 1772854257.542271,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772854293.8093572,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2174,
+      "cost": 0.0043479999999999994
+    },
+    {
+      "timestamp": 1772854425.822428,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 756,
+      "cost": 0.0015119999999999999
+    },
+    {
+      "timestamp": 1772854461.909023,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2086,
+      "cost": 0.0041719999999999995
+    },
+    {
+      "timestamp": 1772854477.856407,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1410,
+      "cost": 0.00282
+    },
+    {
+      "timestamp": 1772854501.368434,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2414,
+      "cost": 0.004828
+    },
+    {
+      "timestamp": 1772854640.7728,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772854678.6901171,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1395,
+      "cost": 0.00279
+    },
+    {
+      "timestamp": 1772854685.198399,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2047,
+      "cost": 0.0040939999999999995
+    },
+    {
+      "timestamp": 1772854696.000268,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2416,
+      "cost": 0.0048319999999999995
+    },
+    {
+      "timestamp": 1772854845.8212469,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 765,
+      "cost": 0.00153
+    },
+    {
+      "timestamp": 1772854890.673028,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1418,
+      "cost": 0.002836
+    },
+    {
+      "timestamp": 1772854926.059374,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2661,
+      "cost": 0.0053219999999999995
+    },
+    {
+      "timestamp": 1772854941.114069,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1666,
+      "cost": 0.003332
+    },
+    {
+      "timestamp": 1772855056.277081,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 783,
+      "cost": 0.001566
+    },
+    {
+      "timestamp": 1772855092.1676521,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2102,
+      "cost": 0.004203999999999999
+    },
+    {
+      "timestamp": 1772855100.0178719,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772855155.930984,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2920,
+      "cost": 0.00584
+    },
+    {
+      "timestamp": 1772855265.593409,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 756,
+      "cost": 0.0015119999999999999
+    },
+    {
+      "timestamp": 1772855300.405084,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2090,
+      "cost": 0.00418
+    },
+    {
+      "timestamp": 1772855313.005408,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1359,
+      "cost": 0.002718
+    },
+    {
+      "timestamp": 1772855347.6692412,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2164,
+      "cost": 0.004327999999999999
+    },
+    {
+      "timestamp": 1772855475.81978,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772855506.1097422,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1649,
+      "cost": 0.0032979999999999997
+    },
+    {
+      "timestamp": 1772855520.577451,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772855575.982548,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3083,
+      "cost": 0.006166
+    },
+    {
+      "timestamp": 1772855686.427917,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 781,
+      "cost": 0.001562
+    },
+    {
+      "timestamp": 1772855721.58223,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2072,
+      "cost": 0.004144
+    },
+    {
+      "timestamp": 1772855731.000184,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1426,
+      "cost": 0.002852
+    },
+    {
+      "timestamp": 1772855748.507932,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2613,
+      "cost": 0.005226
+    },
+    {
+      "timestamp": 1772855895.9855082,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772855933.7403069,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2084,
+      "cost": 0.004168
+    },
+    {
+      "timestamp": 1772855940.208152,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772855976.125969,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2792,
+      "cost": 0.0055839999999999996
+    },
+    {
+      "timestamp": 1772856105.9957278,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 755,
+      "cost": 0.0015099999999999998
+    },
+    {
+      "timestamp": 1772856129.3075671,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1658,
+      "cost": 0.003316
+    },
+    {
+      "timestamp": 1772856151.460848,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1439,
+      "cost": 0.002878
+    },
+    {
+      "timestamp": 1772856168.109458,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2421,
+      "cost": 0.004842
+    },
+    {
+      "timestamp": 1772856316.491838,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 780,
+      "cost": 0.00156
+    },
+    {
+      "timestamp": 1772856351.3369641,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2129,
+      "cost": 0.004258
+    },
+    {
+      "timestamp": 1772856360.153166,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1366,
+      "cost": 0.002732
+    },
+    {
+      "timestamp": 1772856395.343358,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2158,
+      "cost": 0.0043159999999999995
+    },
+    {
+      "timestamp": 1772856526.556252,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 781,
+      "cost": 0.001562
+    },
+    {
+      "timestamp": 1772856562.478816,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2070,
+      "cost": 0.00414
+    },
+    {
+      "timestamp": 1772856570.959166,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772856624.718695,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2863,
+      "cost": 0.005725999999999999
+    },
+    {
+      "timestamp": 1772856737.0542378,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 783,
+      "cost": 0.001566
+    },
+    {
+      "timestamp": 1772856771.931961,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2102,
+      "cost": 0.004203999999999999
+    },
+    {
+      "timestamp": 1772856781.4297018,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772856818.8000882,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2428,
+      "cost": 0.004856
+    },
+    {
+      "timestamp": 1772856946.686808,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772856980.604702,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2090,
+      "cost": 0.00418
+    },
+    {
+      "timestamp": 1772856991.1762738,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1400,
+      "cost": 0.0028
+    },
+    {
+      "timestamp": 1772857045.409953,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2940,
+      "cost": 0.00588
+    },
+    {
+      "timestamp": 1772857157.037434,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 771,
+      "cost": 0.001542
+    },
+    {
+      "timestamp": 1772857191.960685,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2092,
+      "cost": 0.004184
+    },
+    {
+      "timestamp": 1772857203.421742,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1390,
+      "cost": 0.00278
+    },
+    {
+      "timestamp": 1772857239.1673222,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2435,
+      "cost": 0.00487
+    },
+    {
+      "timestamp": 1772857367.7307038,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 789,
+      "cost": 0.001578
+    },
+    {
+      "timestamp": 1772857403.862493,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2097,
+      "cost": 0.004194
+    },
+    {
+      "timestamp": 1772857412.107425,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1432,
+      "cost": 0.002864
+    },
+    {
+      "timestamp": 1772857428.84713,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2611,
+      "cost": 0.005222
+    },
+    {
+      "timestamp": 1772857577.562144,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 754,
+      "cost": 0.001508
+    },
+    {
+      "timestamp": 1772857614.3625011,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2064,
+      "cost": 0.004128
+    },
+    {
+      "timestamp": 1772857622.764968,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1446,
+      "cost": 0.002892
+    },
+    {
+      "timestamp": 1772857673.256165,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2924,
+      "cost": 0.005848
+    },
+    {
+      "timestamp": 1772857789.6647308,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 814,
+      "cost": 0.0016279999999999999
+    },
+    {
+      "timestamp": 1772857834.399147,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1448,
+      "cost": 0.0028959999999999997
+    },
+    {
+      "timestamp": 1772857886.4945762,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1701,
+      "cost": 0.0034019999999999996
+    },
+    {
+      "timestamp": 1772857903.88137,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2867,
+      "cost": 0.0057339999999999995
+    },
+    {
+      "timestamp": 1772857999.257376,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 791,
+      "cost": 0.0015819999999999999
+    },
+    {
+      "timestamp": 1772858043.668598,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1397,
+      "cost": 0.002794
+    },
+    {
+      "timestamp": 1772858089.715165,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1645,
+      "cost": 0.00329
+    },
+    {
+      "timestamp": 1772858100.858239,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2938,
+      "cost": 0.005876
+    },
+    {
+      "timestamp": 1772858209.2324522,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 775,
+      "cost": 0.00155
+    },
+    {
+      "timestamp": 1772858237.911157,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2080,
+      "cost": 0.00416
+    },
+    {
+      "timestamp": 1772858253.750085,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772858270.8816252,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2419,
+      "cost": 0.004837999999999999
+    },
+    {
+      "timestamp": 1772858418.721499,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 749,
+      "cost": 0.001498
+    },
+    {
+      "timestamp": 1772858463.696495,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772858480.276074,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2410,
+      "cost": 0.00482
+    },
+    {
+      "timestamp": 1772858569.478965,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1655,
+      "cost": 0.00331
+    },
+    {
+      "timestamp": 1772858629.502054,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 773,
+      "cost": 0.0015459999999999998
+    },
+    {
+      "timestamp": 1772858663.852949,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2102,
+      "cost": 0.004203999999999999
+    },
+    {
+      "timestamp": 1772858674.34819,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1424,
+      "cost": 0.002848
+    },
+    {
+      "timestamp": 1772858692.6152189,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2613,
+      "cost": 0.005226
+    },
+    {
+      "timestamp": 1772858839.347133,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772858867.517277,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2067,
+      "cost": 0.004134
+    },
+    {
+      "timestamp": 1772858885.0347679,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1452,
+      "cost": 0.002904
+    },
+    {
+      "timestamp": 1772858903.942646,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2623,
+      "cost": 0.005246
+    },
+    {
+      "timestamp": 1772859049.329321,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 764,
+      "cost": 0.0015279999999999998
+    },
+    {
+      "timestamp": 1772859083.137457,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2052,
+      "cost": 0.004104
+    },
+    {
+      "timestamp": 1772859094.506261,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1418,
+      "cost": 0.002836
+    },
+    {
+      "timestamp": 1772859129.823764,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2921,
+      "cost": 0.005842
+    },
+    {
+      "timestamp": 1772859259.679415,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772859287.489509,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2060,
+      "cost": 0.0041199999999999995
+    },
+    {
+      "timestamp": 1772859304.6101,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772859320.433419,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2410,
+      "cost": 0.00482
+    },
+    {
+      "timestamp": 1772859470.196081,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 796,
+      "cost": 0.0015919999999999999
+    },
+    {
+      "timestamp": 1772859497.6612039,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2107,
+      "cost": 0.004214
+    },
+    {
+      "timestamp": 1772859518.708155,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1403,
+      "cost": 0.002806
+    },
+    {
+      "timestamp": 1772859536.2545059,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2411,
+      "cost": 0.004822
+    },
+    {
+      "timestamp": 1772859680.238942,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 751,
+      "cost": 0.0015019999999999999
+    },
+    {
+      "timestamp": 1772859717.3703701,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772859724.7840881,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772859760.035786,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2426,
+      "cost": 0.0048519999999999995
+    },
+    {
+      "timestamp": 1772859891.043382,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 775,
+      "cost": 0.00155
+    },
+    {
+      "timestamp": 1772859926.0177221,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2104,
+      "cost": 0.004208
+    },
+    {
+      "timestamp": 1772859948.762458,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1422,
+      "cost": 0.0028439999999999997
+    },
+    {
+      "timestamp": 1772859984.163917,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2436,
+      "cost": 0.004872
+    },
+    {
+      "timestamp": 1772860101.122577,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772860128.0271602,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2076,
+      "cost": 0.0041519999999999994
+    },
+    {
+      "timestamp": 1772860147.082068,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1393,
+      "cost": 0.002786
+    },
+    {
+      "timestamp": 1772860201.5423071,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2932,
+      "cost": 0.005863999999999999
+    },
+    {
+      "timestamp": 1772860312.9897249,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772860340.262986,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2047,
+      "cost": 0.0040939999999999995
+    },
+    {
+      "timestamp": 1772860355.60789,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1367,
+      "cost": 0.002734
+    },
+    {
+      "timestamp": 1772860392.741259,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2175,
+      "cost": 0.00435
+    },
+    {
+      "timestamp": 1772860522.086787,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 761,
+      "cost": 0.001522
+    },
+    {
+      "timestamp": 1772860568.524408,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2081,
+      "cost": 0.004162
+    },
+    {
+      "timestamp": 1772860572.4433742,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772860620.273282,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2167,
+      "cost": 0.004334
+    },
+    {
+      "timestamp": 1772860746.183726,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 762,
+      "cost": 0.001524
+    },
+    {
+      "timestamp": 1772860779.1898901,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1676,
+      "cost": 0.003352
+    },
+    {
+      "timestamp": 1772860794.519611,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1409,
+      "cost": 0.0028179999999999998
+    },
+    {
+      "timestamp": 1772860811.61582,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2418,
+      "cost": 0.004836
+    },
+    {
+      "timestamp": 1772860949.209204,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 790,
+      "cost": 0.00158
+    },
+    {
+      "timestamp": 1772861037.959421,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 61.1,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772861213.9515,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1369,
+      "cost": 0.002738
+    },
+    {
+      "timestamp": 1772861216.4679549,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 50.7,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772861235.9559848,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1125,
+      "cost": 0.00225
+    },
+    {
+      "timestamp": 1772861362.011826,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1369,
+      "cost": 0.002738
+    },
+    {
+      "timestamp": 1772861381.061249,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    },
+    {
+      "timestamp": 1772861429.3770869,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 762,
+      "cost": 0.001524
+    },
+    {
+      "timestamp": 1772861476.571615,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1380,
+      "cost": 0.00276
+    },
+    {
+      "timestamp": 1772861514.5068328,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1629,
+      "cost": 0.003258
+    },
+    {
+      "timestamp": 1772861514.881613,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2426,
+      "cost": 0.0048519999999999995
+    },
+    {
+      "timestamp": 1772861559.874547,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1554,
+      "cost": 0.0031079999999999997
+    },
+    {
+      "timestamp": 1772861698.104921,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1354,
+      "cost": 0.002708
+    },
+    {
+      "timestamp": 1772861813.299777,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1302,
+      "cost": 0.002604
+    },
+    {
+      "timestamp": 1772861832.752727,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1086,
+      "cost": 0.002172
+    },
+    {
+      "timestamp": 1772861882.611012,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 769,
+      "cost": 0.0015379999999999999
+    },
+    {
+      "timestamp": 1772861913.2171671,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1669,
+      "cost": 0.003338
+    },
+    {
+      "timestamp": 1772861955.636121,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1372,
+      "cost": 0.002744
+    },
+    {
+      "timestamp": 1772862007.951127,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772862011.3507771,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2925,
+      "cost": 0.00585
+    },
+    {
+      "timestamp": 1772862112.750577,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1302,
+      "cost": 0.002604
+    },
+    {
+      "timestamp": 1772862124.1004229,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 634,
+      "cost": 0.001268
+    },
+    {
+      "timestamp": 1772862180.22086,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772862211.2251241,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2081,
+      "cost": 0.004162
+    },
+    {
+      "timestamp": 1772862227.324697,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1444,
+      "cost": 0.002888
+    },
+    {
+      "timestamp": 1772862244.297809,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2420,
+      "cost": 0.00484
+    },
+    {
+      "timestamp": 1772862276.282038,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772862402.5554209,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1317,
+      "cost": 0.002634
+    },
+    {
+      "timestamp": 1772862420.2985952,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1035,
+      "cost": 0.00207
+    },
+    {
+      "timestamp": 1772862472.6960378,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772862516.1227782,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1682,
+      "cost": 0.003364
+    },
+    {
+      "timestamp": 1772862553.119075,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1358,
+      "cost": 0.0027159999999999997
+    },
+    {
+      "timestamp": 1772862591.193869,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2163,
+      "cost": 0.004326
+    },
+    {
+      "timestamp": 1772862656.364495,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772862789.336261,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1317,
+      "cost": 0.002634
+    },
+    {
+      "timestamp": 1772862804.590299,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 840,
+      "cost": 0.0016799999999999999
+    },
+    {
+      "timestamp": 1772862856.3744361,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 736,
+      "cost": 0.001472
+    },
+    {
+      "timestamp": 1772862898.9186182,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2091,
+      "cost": 0.004182
+    },
+    {
+      "timestamp": 1772862903.5036101,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1428,
+      "cost": 0.002856
+    },
+    {
+      "timestamp": 1772862924.417682,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2619,
+      "cost": 0.005238
+    },
+    {
+      "timestamp": 1772863016.0310478,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772863138.852938,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772863157.4848042,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772863205.927008,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 751,
+      "cost": 0.0015019999999999999
+    },
+    {
+      "timestamp": 1772863241.024433,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772863280.980607,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1385,
+      "cost": 0.00277
+    },
+    {
+      "timestamp": 1772863324.8372931,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2795,
+      "cost": 0.0055899999999999995
+    },
+    {
+      "timestamp": 1772863343.1619709,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772863460.0543811,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772863473.4985778,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 808,
+      "cost": 0.001616
+    },
+    {
+      "timestamp": 1772863528.03723,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 755,
+      "cost": 0.0015099999999999998
+    },
+    {
+      "timestamp": 1772863551.7540832,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1672,
+      "cost": 0.0033439999999999998
+    },
+    {
+      "timestamp": 1772863575.6338718,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1384,
+      "cost": 0.002768
+    },
+    {
+      "timestamp": 1772863661.090322,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772863667.901644,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2425,
+      "cost": 0.00485
+    },
+    {
+      "timestamp": 1772863779.7047732,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772863794.9696221,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 823,
+      "cost": 0.001646
+    },
+    {
+      "timestamp": 1772863857.919874,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 782,
+      "cost": 0.0015639999999999999
+    },
+    {
+      "timestamp": 1772863893.081496,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2070,
+      "cost": 0.00414
+    },
+    {
+      "timestamp": 1772863911.971123,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1427,
+      "cost": 0.0028539999999999998
+    },
+    {
+      "timestamp": 1772863934.545433,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2382,
+      "cost": 0.004764
+    },
+    {
+      "timestamp": 1772863973.467694,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772864111.437443,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772864139.8034198,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1121,
+      "cost": 0.002242
+    },
+    {
+      "timestamp": 1772864233.5584981,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772864279.480157,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772864318.889761,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1447,
+      "cost": 0.002894
+    },
+    {
+      "timestamp": 1772864342.50288,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2405,
+      "cost": 0.00481
+    },
+    {
+      "timestamp": 1772864389.824702,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772864529.866522,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772864562.14677,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1124,
+      "cost": 0.002248
+    },
+    {
+      "timestamp": 1772864619.7105,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 747,
+      "cost": 0.0014939999999999999
+    },
+    {
+      "timestamp": 1772864683.995593,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1644,
+      "cost": 0.0032879999999999997
+    },
+    {
+      "timestamp": 1772864743.4008052,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1439,
+      "cost": 0.002878
+    },
+    {
+      "timestamp": 1772864781.288049,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772864838.047414,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2924,
+      "cost": 0.005848
+    },
+    {
+      "timestamp": 1772864966.458457,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772864983.2225652,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 631,
+      "cost": 0.0012619999999999999
+    },
+    {
+      "timestamp": 1772865083.813798,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 789,
+      "cost": 0.001578
+    },
+    {
+      "timestamp": 1772865171.491776,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772865201.02541,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1672,
+      "cost": 0.0033439999999999998
+    },
+    {
+      "timestamp": 1772865233.689471,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772865261.250216,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2941,
+      "cost": 0.005882
+    },
+    {
+      "timestamp": 1772865381.834928,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772865398.6159391,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 863,
+      "cost": 0.0017259999999999999
+    },
+    {
+      "timestamp": 1772865511.504195,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 789,
+      "cost": 0.001578
+    },
+    {
+      "timestamp": 1772865561.827513,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1703,
+      "cost": 0.0034059999999999997
+    },
+    {
+      "timestamp": 1772865585.411433,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1400,
+      "cost": 0.0028
+    },
+    {
+      "timestamp": 1772865639.636822,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2941,
+      "cost": 0.005882
+    },
+    {
+      "timestamp": 1772865697.2905128,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772865831.103436,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772865851.474081,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772865957.675054,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 48.1,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772866089.510305,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772866109.773746,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1121,
+      "cost": 0.002242
+    },
+    {
+      "timestamp": 1772866167.991146,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 748,
+      "cost": 0.001496
+    },
+    {
+      "timestamp": 1772866205.7015731,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2089,
+      "cost": 0.004177999999999999
+    },
+    {
+      "timestamp": 1772866233.787912,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1419,
+      "cost": 0.002838
+    },
+    {
+      "timestamp": 1772866252.008815,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2387,
+      "cost": 0.004774
+    },
+    {
+      "timestamp": 1772866284.563273,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772866378.961552,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772866391.8598661,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772866446.642219,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 771,
+      "cost": 0.001542
+    },
+    {
+      "timestamp": 1772866482.6943412,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2107,
+      "cost": 0.004214
+    },
+    {
+      "timestamp": 1772866491.843589,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1410,
+      "cost": 0.00282
+    },
+    {
+      "timestamp": 1772866508.444695,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2626,
+      "cost": 0.005252
+    },
+    {
+      "timestamp": 1772866572.0430799,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772866698.504294,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1366,
+      "cost": 0.002732
+    },
+    {
+      "timestamp": 1772866707.4907782,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 547,
+      "cost": 0.001094
+    },
+    {
+      "timestamp": 1772866765.8244932,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 758,
+      "cost": 0.001516
+    },
+    {
+      "timestamp": 1772866795.152769,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2085,
+      "cost": 0.00417
+    },
+    {
+      "timestamp": 1772866810.956449,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1406,
+      "cost": 0.002812
+    },
+    {
+      "timestamp": 1772866848.949505,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3113,
+      "cost": 0.006226
+    },
+    {
+      "timestamp": 1772866862.009001,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772866988.171494,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1366,
+      "cost": 0.002732
+    },
+    {
+      "timestamp": 1772867004.7910862,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 969,
+      "cost": 0.0019379999999999998
+    },
+    {
+      "timestamp": 1772867086.001926,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 775,
+      "cost": 0.00155
+    },
+    {
+      "timestamp": 1772867119.5093691,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1719,
+      "cost": 0.0034379999999999997
+    },
+    {
+      "timestamp": 1772867131.006542,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772867168.2248042,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3048,
+      "cost": 0.006096
+    },
+    {
+      "timestamp": 1772867180.935464,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772867262.6803908,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 45.5,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772867280.32654,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1340,
+      "cost": 0.00268
+    },
+    {
+      "timestamp": 1772867294.6285791,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 822,
+      "cost": 0.0016439999999999998
+    },
+    {
+      "timestamp": 1772867349.818016,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 40.300000000000004,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772867437.3715498,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 680,
+      "cost": 0.0013599999999999999
+    },
+    {
+      "timestamp": 1772867454.386902,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772867522.477123,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 975,
+      "cost": 0.00195
+    },
+    {
+      "timestamp": 1772867594.264707,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1033,
+      "cost": 0.0020659999999999997
+    },
+    {
+      "timestamp": 1772867682.737155,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1009,
+      "cost": 0.002018
+    },
+    {
+      "timestamp": 1772867748.3901062,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1081,
+      "cost": 0.002162
+    },
+    {
+      "timestamp": 1772867789.783211,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1000,
+      "cost": 0.002
+    },
+    {
+      "timestamp": 1772867906.353599,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1341,
+      "cost": 0.002682
+    },
+    {
+      "timestamp": 1772867908.0860832,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 981,
+      "cost": 0.0019619999999999998
+    },
+    {
+      "timestamp": 1772867914.822641,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 511,
+      "cost": 0.001022
+    },
+    {
+      "timestamp": 1772867930.16395,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1002,
+      "cost": 0.0020039999999999997
+    },
+    {
+      "timestamp": 1772867976.21873,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 978,
+      "cost": 0.001956
+    },
+    {
+      "timestamp": 1772868585.895274,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 747,
+      "cost": 0.0014939999999999999
+    },
+    {
+      "timestamp": 1772868610.207792,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 840,
+      "cost": 0.0016799999999999999
+    },
+    {
+      "timestamp": 1772868749.9991832,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1354,
+      "cost": 0.002708
+    },
+    {
+      "timestamp": 1772868769.630005,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1125,
+      "cost": 0.00225
+    },
+    {
+      "timestamp": 1772868796.175134,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 983,
+      "cost": 0.001966
+    },
+    {
+      "timestamp": 1772868828.4333792,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1017,
+      "cost": 0.002034
+    },
+    {
+      "timestamp": 1772868871.237489,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1017,
+      "cost": 0.002034
+    },
+    {
+      "timestamp": 1772869008.046647,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1337,
+      "cost": 0.0026739999999999997
+    },
+    {
+      "timestamp": 1772869029.862546,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1125,
+      "cost": 0.00225
+    },
+    {
+      "timestamp": 1772869075.330587,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772869098.682581,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1652,
+      "cost": 0.0033039999999999996
+    },
+    {
+      "timestamp": 1772869120.1824691,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772869156.890037,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3115,
+      "cost": 0.006229999999999999
+    },
+    {
+      "timestamp": 1772869201.1852129,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772869298.266004,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1331,
+      "cost": 0.002662
+    },
+    {
+      "timestamp": 1772869310.333343,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 657,
+      "cost": 0.0013139999999999998
+    },
+    {
+      "timestamp": 1772869365.813247,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 777,
+      "cost": 0.0015539999999999998
+    },
+    {
+      "timestamp": 1772869388.663647,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1707,
+      "cost": 0.003414
+    },
+    {
+      "timestamp": 1772869440.7244391,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1410,
+      "cost": 0.00282
+    },
+    {
+      "timestamp": 1772869478.136844,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3115,
+      "cost": 0.006229999999999999
+    },
+    {
+      "timestamp": 1772869491.06721,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772869520.24785,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 975,
+      "cost": 0.00195
+    },
+    {
+      "timestamp": 1772869544.927267,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 944,
+      "cost": 0.001888
+    },
+    {
+      "timestamp": 1772869602.786855,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 972,
+      "cost": 0.001944
+    },
+    {
+      "timestamp": 1772869666.48033,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 997,
+      "cost": 0.001994
+    },
+    {
+      "timestamp": 1772869762.523917,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1008,
+      "cost": 0.002016
+    },
+    {
+      "timestamp": 1772869793.836101,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1014,
+      "cost": 0.002028
+    },
+    {
+      "timestamp": 1772869841.946047,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1063,
+      "cost": 0.002126
+    },
+    {
+      "timestamp": 1772869969.7969458,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1346,
+      "cost": 0.002692
+    },
+    {
+      "timestamp": 1772869988.747461,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    },
+    {
+      "timestamp": 1772870067.574185,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 736,
+      "cost": 0.001472
+    },
+    {
+      "timestamp": 1772870095.864426,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2053,
+      "cost": 0.004105999999999999
+    },
+    {
+      "timestamp": 1772870112.434392,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1391,
+      "cost": 0.0027819999999999998
+    },
+    {
+      "timestamp": 1772870148.618946,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3103,
+      "cost": 0.006206
+    },
+    {
+      "timestamp": 1772870192.3080168,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772870306.488142,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 42.9,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772870464.739535,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 52.0,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772870893.723167,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 137.8,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772871139.317007,
+      "provider": "ollama",
+      "model": "llama3.1",
+      "tokens": 158.6,
+      "cost": 0.0
+    },
+    {
+      "timestamp": 1772872476.7959712,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1302,
+      "cost": 0.002604
+    },
+    {
+      "timestamp": 1772872487.791744,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 619,
+      "cost": 0.001238
+    },
+    {
+      "timestamp": 1772872545.566496,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 797,
+      "cost": 0.001594
+    },
+    {
+      "timestamp": 1772872589.7368379,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772872606.557421,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2369,
+      "cost": 0.004738
+    },
+    {
+      "timestamp": 1772872629.081728,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1689,
+      "cost": 0.003378
+    },
+    {
+      "timestamp": 1772872639.509547,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772872736.374795,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1302,
+      "cost": 0.002604
+    },
+    {
+      "timestamp": 1772872755.329972,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1128,
+      "cost": 0.0022559999999999998
+    },
+    {
+      "timestamp": 1772872803.868339,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772872839.9402611,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2103,
+      "cost": 0.004206
+    },
+    {
+      "timestamp": 1772872849.2345128,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772872886.7245498,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3047,
+      "cost": 0.006094
+    },
+    {
+      "timestamp": 1772872899.257982,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772872998.9612339,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1302,
+      "cost": 0.002604
+    },
+    {
+      "timestamp": 1772873006.4279392,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 464,
+      "cost": 0.000928
+    },
+    {
+      "timestamp": 1772873066.64131,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 775,
+      "cost": 0.00155
+    },
+    {
+      "timestamp": 1772873101.3850381,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2120,
+      "cost": 0.00424
+    },
+    {
+      "timestamp": 1772873111.4935858,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772873149.421918,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2817,
+      "cost": 0.005634
+    },
+    {
+      "timestamp": 1772873161.7447512,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772873286.7874281,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1317,
+      "cost": 0.002634
+    },
+    {
+      "timestamp": 1772873305.345857,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1126,
+      "cost": 0.002252
+    },
+    {
+      "timestamp": 1772873354.168139,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 780,
+      "cost": 0.00156
+    },
+    {
+      "timestamp": 1772873378.041246,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1566,
+      "cost": 0.003132
+    },
+    {
+      "timestamp": 1772873400.863991,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1460,
+      "cost": 0.00292
+    },
+    {
+      "timestamp": 1772873419.5062778,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2414,
+      "cost": 0.004828
+    },
+    {
+      "timestamp": 1772873449.063444,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772873547.6788049,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1317,
+      "cost": 0.002634
+    },
+    {
+      "timestamp": 1772873563.37889,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 803,
+      "cost": 0.001606
+    },
+    {
+      "timestamp": 1772873615.00245,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 754,
+      "cost": 0.001508
+    },
+    {
+      "timestamp": 1772873650.116707,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2070,
+      "cost": 0.00414
+    },
+    {
+      "timestamp": 1772873660.1432672,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772873676.603319,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2361,
+      "cost": 0.004722
+    },
+    {
+      "timestamp": 1772873710.7468019,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772873838.731112,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772873852.1446211,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 745,
+      "cost": 0.00149
+    },
+    {
+      "timestamp": 1772873905.801638,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 744,
+      "cost": 0.001488
+    },
+    {
+      "timestamp": 1772873941.441792,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2070,
+      "cost": 0.00414
+    },
+    {
+      "timestamp": 1772873952.4366431,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772873990.649631,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2883,
+      "cost": 0.005765999999999999
+    },
+    {
+      "timestamp": 1772874001.988106,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772874099.491101,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772874110.378338,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 628,
+      "cost": 0.001256
+    },
+    {
+      "timestamp": 1772874167.076849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772874197.199459,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1699,
+      "cost": 0.003398
+    },
+    {
+      "timestamp": 1772874212.220565,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1406,
+      "cost": 0.002812
+    },
+    {
+      "timestamp": 1772874249.926123,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3052,
+      "cost": 0.006104
+    },
+    {
+      "timestamp": 1772874262.234015,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772874359.367436,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772874375.432462,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 737,
+      "cost": 0.0014739999999999998
+    },
+    {
+      "timestamp": 1772874426.8731709,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 826,
+      "cost": 0.0016519999999999998
+    },
+    {
+      "timestamp": 1772874449.6949692,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1746,
+      "cost": 0.003492
+    },
+    {
+      "timestamp": 1772874501.574941,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772874518.675107,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2619,
+      "cost": 0.005238
+    },
+    {
+      "timestamp": 1772874552.63384,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772874650.383531,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1301,
+      "cost": 0.0026019999999999997
+    },
+    {
+      "timestamp": 1772874670.286002,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772874719.119818,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 738,
+      "cost": 0.0014759999999999999
+    },
+    {
+      "timestamp": 1772874747.1076748,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2058,
+      "cost": 0.004116
+    },
+    {
+      "timestamp": 1772874764.155348,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772874801.661628,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3045,
+      "cost": 0.00609
+    },
+    {
+      "timestamp": 1772874843.32657,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772874939.9380171,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772874954.898432,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 815,
+      "cost": 0.00163
+    },
+    {
+      "timestamp": 1772875108.2584279,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1298,
+      "cost": 0.002596
+    },
+    {
+      "timestamp": 1772875117.782389,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 585,
+      "cost": 0.00117
+    },
+    {
+      "timestamp": 1772875175.944917,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 760,
+      "cost": 0.0015199999999999999
+    },
+    {
+      "timestamp": 1772875211.1878028,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2074,
+      "cost": 0.004148
+    },
+    {
+      "timestamp": 1772875222.4099221,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1397,
+      "cost": 0.002794
+    },
+    {
+      "timestamp": 1772875259.591202,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3114,
+      "cost": 0.006228
+    },
+    {
+      "timestamp": 1772875272.067768,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772875368.194813,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1298,
+      "cost": 0.002596
+    },
+    {
+      "timestamp": 1772875388.823308,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1124,
+      "cost": 0.002248
+    },
+    {
+      "timestamp": 1772875435.923795,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772875472.0650592,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2076,
+      "cost": 0.0041519999999999994
+    },
+    {
+      "timestamp": 1772875480.0177221,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1371,
+      "cost": 0.002742
+    },
+    {
+      "timestamp": 1772875497.862787,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2589,
+      "cost": 0.0051779999999999994
+    },
+    {
+      "timestamp": 1772875560.7390049,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772875657.996829,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1313,
+      "cost": 0.002626
+    },
+    {
+      "timestamp": 1772875677.9870842,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1106,
+      "cost": 0.002212
+    },
+    {
+      "timestamp": 1772875725.0917602,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 758,
+      "cost": 0.001516
+    },
+    {
+      "timestamp": 1772875760.324884,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2084,
+      "cost": 0.004168
+    },
+    {
+      "timestamp": 1772875770.76173,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1386,
+      "cost": 0.0027719999999999997
+    },
+    {
+      "timestamp": 1772875789.3001149,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2359,
+      "cost": 0.004718
+    },
+    {
+      "timestamp": 1772875821.757685,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772875919.037377,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1313,
+      "cost": 0.002626
+    },
+    {
+      "timestamp": 1772875925.7926998,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 427,
+      "cost": 0.0008539999999999999
+    },
+    {
+      "timestamp": 1772875986.6234229,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 769,
+      "cost": 0.0015379999999999999
+    },
+    {
+      "timestamp": 1772876022.364117,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2068,
+      "cost": 0.004136
+    },
+    {
+      "timestamp": 1772876031.7785752,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1392,
+      "cost": 0.002784
+    },
+    {
+      "timestamp": 1772876069.2785861,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2891,
+      "cost": 0.005782
+    },
+    {
+      "timestamp": 1772876081.961375,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772876180.020851,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1313,
+      "cost": 0.002626
+    },
+    {
+      "timestamp": 1772876195.258251,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 881,
+      "cost": 0.001762
+    },
+    {
+      "timestamp": 1772876247.649908,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 774,
+      "cost": 0.001548
+    },
+    {
+      "timestamp": 1772876271.211892,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1696,
+      "cost": 0.003392
+    },
+    {
+      "timestamp": 1772876293.934091,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1387,
+      "cost": 0.002774
+    },
+    {
+      "timestamp": 1772876331.617353,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3106,
+      "cost": 0.006212
+    },
+    {
+      "timestamp": 1772876342.78268,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772876439.342599,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772876454.698196,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 752,
+      "cost": 0.001504
+    },
+    {
+      "timestamp": 1772876507.128309,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 765,
+      "cost": 0.00153
+    },
+    {
+      "timestamp": 1772876532.0670211,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1685,
+      "cost": 0.0033699999999999997
+    },
+    {
+      "timestamp": 1772876552.490356,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772876592.880073,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3115,
+      "cost": 0.006229999999999999
+    },
+    {
+      "timestamp": 1772876603.176415,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772876699.688234,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772876709.773994,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 576,
+      "cost": 0.001152
+    },
+    {
+      "timestamp": 1772876767.426302,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772876798.761488,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1695,
+      "cost": 0.00339
+    },
+    {
+      "timestamp": 1772876812.277092,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772876830.405389,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2378,
+      "cost": 0.004756
+    },
+    {
+      "timestamp": 1772876862.3497322,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772876990.145082,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772877009.8027751,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1120,
+      "cost": 0.00224
+    },
+    {
+      "timestamp": 1772877057.3290188,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 749,
+      "cost": 0.001498
+    },
+    {
+      "timestamp": 1772877093.893913,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2057,
+      "cost": 0.004114
+    },
+    {
+      "timestamp": 1772877103.208181,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1429,
+      "cost": 0.002858
+    },
+    {
+      "timestamp": 1772877121.278839,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2641,
+      "cost": 0.005281999999999999
+    },
+    {
+      "timestamp": 1772877153.792222,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772877249.164414,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772877267.762848,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    },
+    {
+      "timestamp": 1772877316.519228,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 765,
+      "cost": 0.00153
+    },
+    {
+      "timestamp": 1772877344.664526,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2086,
+      "cost": 0.0041719999999999995
+    },
+    {
+      "timestamp": 1772877361.969594,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1427,
+      "cost": 0.0028539999999999998
+    },
+    {
+      "timestamp": 1772877378.910224,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2637,
+      "cost": 0.005274
+    },
+    {
+      "timestamp": 1772877412.277011,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772877510.344179,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772877521.151835,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 580,
+      "cost": 0.00116
+    },
+    {
+      "timestamp": 1772877578.44546,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 784,
+      "cost": 0.001568
+    },
+    {
+      "timestamp": 1772877601.4505842,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1712,
+      "cost": 0.003424
+    },
+    {
+      "timestamp": 1772877623.489578,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1391,
+      "cost": 0.0027819999999999998
+    },
+    {
+      "timestamp": 1772877639.17627,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2363,
+      "cost": 0.004726
+    },
+    {
+      "timestamp": 1772877676.0281112,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772877770.440301,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772877776.2776499,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 375,
+      "cost": 0.00075
+    },
+    {
+      "timestamp": 1772877837.874798,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 778,
+      "cost": 0.0015559999999999999
+    },
+    {
+      "timestamp": 1772877866.4866471,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2137,
+      "cost": 0.004274
+    },
+    {
+      "timestamp": 1772877884.304269,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1406,
+      "cost": 0.002812
+    },
+    {
+      "timestamp": 1772877902.581897,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2366,
+      "cost": 0.004732
+    },
+    {
+      "timestamp": 1772877963.489331,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772878060.180439,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772878080.533849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    },
+    {
+      "timestamp": 1772878128.268865,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 807,
+      "cost": 0.001614
+    },
+    {
+      "timestamp": 1772878162.8066921,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2125,
+      "cost": 0.0042499999999999994
+    },
+    {
+      "timestamp": 1772878172.451761,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1401,
+      "cost": 0.002802
+    },
+    {
+      "timestamp": 1772878208.807822,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3123,
+      "cost": 0.006246
+    },
+    {
+      "timestamp": 1772878222.57961,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772878320.243099,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772878334.473011,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 781,
+      "cost": 0.001562
+    },
+    {
+      "timestamp": 1772878388.031115,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 773,
+      "cost": 0.0015459999999999998
+    },
+    {
+      "timestamp": 1772878423.262968,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2108,
+      "cost": 0.004216
+    },
+    {
+      "timestamp": 1772878432.786309,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772878470.025449,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3046,
+      "cost": 0.006091999999999999
+    },
+    {
+      "timestamp": 1772878483.449216,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772878578.700901,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772878598.295846,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1120,
+      "cost": 0.00224
+    },
+    {
+      "timestamp": 1772878646.084383,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772878674.2472808,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2104,
+      "cost": 0.004208
+    },
+    {
+      "timestamp": 1772878690.972404,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772878730.66858,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3040,
+      "cost": 0.0060799999999999995
+    },
+    {
+      "timestamp": 1772878741.1052659,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2061,
+      "cost": 0.004122
+    },
+    {
+      "timestamp": 1772878838.6204998,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772878855.999104,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 969,
+      "cost": 0.0019379999999999998
+    },
+    {
+      "timestamp": 1772878906.227964,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 780,
+      "cost": 0.00156
+    },
+    {
+      "timestamp": 1772878940.386747,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2138,
+      "cost": 0.004275999999999999
+    },
+    {
+      "timestamp": 1772878951.1271849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1390,
+      "cost": 0.00278
+    },
+    {
+      "timestamp": 1772878986.884939,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3102,
+      "cost": 0.0062039999999999994
+    },
+    {
+      "timestamp": 1772879000.897141,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1952,
+      "cost": 0.003904
+    },
+    {
+      "timestamp": 1772879128.296451,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772879141.4040608,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 742,
+      "cost": 0.0014839999999999999
+    },
+    {
+      "timestamp": 1772879195.678941,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772879223.530762,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2110,
+      "cost": 0.00422
+    },
+    {
+      "timestamp": 1772879348.868497,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1298,
+      "cost": 0.002596
+    },
+    {
+      "timestamp": 1772879693.3411388,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1298,
+      "cost": 0.002596
+    },
+    {
+      "timestamp": 1772879709.1096,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 911,
+      "cost": 0.0018219999999999998
+    },
+    {
+      "timestamp": 1772879760.8201978,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 831,
+      "cost": 0.0016619999999999998
+    },
+    {
+      "timestamp": 1772879790.10899,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1763,
+      "cost": 0.003526
+    },
+    {
+      "timestamp": 1772879835.881978,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1406,
+      "cost": 0.002812
+    },
+    {
+      "timestamp": 1772879873.0248902,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3122,
+      "cost": 0.0062439999999999996
+    },
+    {
+      "timestamp": 1772879892.815477,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2398,
+      "cost": 0.004796
+    },
+    {
+      "timestamp": 1772879983.467137,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772879993.002547,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 579,
+      "cost": 0.001158
+    },
+    {
+      "timestamp": 1772880050.7781749,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 766,
+      "cost": 0.001532
+    },
+    {
+      "timestamp": 1772880086.783069,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2089,
+      "cost": 0.004177999999999999
+    },
+    {
+      "timestamp": 1772880095.690957,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1384,
+      "cost": 0.002768
+    },
+    {
+      "timestamp": 1772880132.760973,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3109,
+      "cost": 0.006218
+    },
+    {
+      "timestamp": 1772880158.972577,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3104,
+      "cost": 0.006208
+    },
+    {
+      "timestamp": 1772880242.917683,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772880262.41924,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1121,
+      "cost": 0.002242
+    },
+    {
+      "timestamp": 1772880310.2380328,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772880338.270248,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2087,
+      "cost": 0.004174
+    },
+    {
+      "timestamp": 1772880355.625333,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772880392.6933591,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3121,
+      "cost": 0.006241999999999999
+    },
+    {
+      "timestamp": 1772880425.318024,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 4276,
+      "cost": 0.008551999999999999
+    },
+    {
+      "timestamp": 1772880502.795198,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772880520.242524,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 980,
+      "cost": 0.00196
+    },
+    {
+      "timestamp": 1772880570.1090581,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 765,
+      "cost": 0.00153
+    },
+    {
+      "timestamp": 1772880592.834687,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1685,
+      "cost": 0.0033699999999999997
+    },
+    {
+      "timestamp": 1772880614.773698,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772880651.551462,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2819,
+      "cost": 0.005638
+    },
+    {
+      "timestamp": 1772880696.984638,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 5932,
+      "cost": 0.011864
+    },
+    {
+      "timestamp": 1772880762.424288,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772880783.46304,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    },
+    {
+      "timestamp": 1772880831.333144,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 757,
+      "cost": 0.001514
+    },
+    {
+      "timestamp": 1772880854.1694489,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1665,
+      "cost": 0.00333
+    },
+    {
+      "timestamp": 1772880876.7976298,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1415,
+      "cost": 0.00283
+    },
+    {
+      "timestamp": 1772880893.564437,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2394,
+      "cost": 0.004788
+    },
+    {
+      "timestamp": 1772880964.862669,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 7556,
+      "cost": 0.015111999999999999
+    },
+    {
+      "timestamp": 1772881021.679339,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772881034.226908,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 723,
+      "cost": 0.001446
+    },
+    {
+      "timestamp": 1772881089.583201,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 768,
+      "cost": 0.001536
+    },
+    {
+      "timestamp": 1772881124.708732,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2090,
+      "cost": 0.00418
+    },
+    {
+      "timestamp": 1772881134.229228,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772881172.113545,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3119,
+      "cost": 0.006238
+    },
+    {
+      "timestamp": 1772881238.678082,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 9385,
+      "cost": 0.01877
+    },
+    {
+      "timestamp": 1772881280.607959,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772881299.502177,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772881347.925338,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772881381.89275,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2096,
+      "cost": 0.0041919999999999995
+    },
+    {
+      "timestamp": 1772881392.789027,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1388,
+      "cost": 0.002776
+    },
+    {
+      "timestamp": 1772881410.430948,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2613,
+      "cost": 0.005226
+    },
+    {
+      "timestamp": 1772881504.3816352,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 11237,
+      "cost": 0.022473999999999997
+    },
+    {
+      "timestamp": 1772881539.6308758,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772881558.586109,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1087,
+      "cost": 0.0021739999999999997
+    },
+    {
+      "timestamp": 1772881606.804501,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 749,
+      "cost": 0.001498
+    },
+    {
+      "timestamp": 1772881634.382825,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2056,
+      "cost": 0.004112
+    },
+    {
+      "timestamp": 1772881652.517504,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1420,
+      "cost": 0.00284
+    },
+    {
+      "timestamp": 1772881669.4743192,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2613,
+      "cost": 0.005226
+    },
+    {
+      "timestamp": 1772881775.325004,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 12966,
+      "cost": 0.025932
+    },
+    {
+      "timestamp": 1772881797.532038,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772881816.313322,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1120,
+      "cost": 0.00224
+    },
+    {
+      "timestamp": 1772881864.577444,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 748,
+      "cost": 0.001496
+    },
+    {
+      "timestamp": 1772881900.181706,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2063,
+      "cost": 0.0041259999999999995
+    },
+    {
+      "timestamp": 1772881909.753071,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1394,
+      "cost": 0.0027879999999999997
+    },
+    {
+      "timestamp": 1772881927.4210172,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2368,
+      "cost": 0.004736
+    },
+    {
+      "timestamp": 1772882047.5642729,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 14930,
+      "cost": 0.029859999999999998
+    },
+    {
+      "timestamp": 1772882056.773557,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772882068.933961,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 705,
+      "cost": 0.00141
+    },
+    {
+      "timestamp": 1772882124.0278971,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 757,
+      "cost": 0.001514
+    },
+    {
+      "timestamp": 1772882159.151186,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2073,
+      "cost": 0.0041459999999999995
+    },
+    {
+      "timestamp": 1772882171.7456279,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772882209.532408,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3126,
+      "cost": 0.006252
+    },
+    {
+      "timestamp": 1772882315.923627,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772882324.773844,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 17252,
+      "cost": 0.034504
+    },
+    {
+      "timestamp": 1772882335.2754629,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1120,
+      "cost": 0.00224
+    },
+    {
+      "timestamp": 1772882383.648512,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 786,
+      "cost": 0.0015719999999999998
+    },
+    {
+      "timestamp": 1772882418.63088,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2084,
+      "cost": 0.004168
+    },
+    {
+      "timestamp": 1772882428.3565671,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1412,
+      "cost": 0.0028239999999999997
+    },
+    {
+      "timestamp": 1772882445.3574731,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2380,
+      "cost": 0.0047599999999999995
+    },
+    {
+      "timestamp": 1772882604.794487,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772882617.693674,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 722,
+      "cost": 0.001444
+    },
+    {
+      "timestamp": 1772882672.131731,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 770,
+      "cost": 0.00154
+    },
+    {
+      "timestamp": 1772882675.5159612,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 21512,
+      "cost": 0.043024
+    },
+    {
+      "timestamp": 1772882700.4284549,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2104,
+      "cost": 0.004208
+    },
+    {
+      "timestamp": 1772882716.8163981,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1373,
+      "cost": 0.0027459999999999997
+    },
+    {
+      "timestamp": 1772882734.3841028,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2358,
+      "cost": 0.004716
+    },
+    {
+      "timestamp": 1772882863.7890298,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772882879.353576,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 916,
+      "cost": 0.0018319999999999999
+    },
+    {
+      "timestamp": 1772882930.758623,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 743,
+      "cost": 0.001486
+    },
+    {
+      "timestamp": 1772882959.0216992,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2067,
+      "cost": 0.004134
+    },
+    {
+      "timestamp": 1772882962.6824682,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 25699,
+      "cost": 0.051398
+    },
+    {
+      "timestamp": 1772882976.5652192,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1410,
+      "cost": 0.00282
+    },
+    {
+      "timestamp": 1772882993.056418,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2370,
+      "cost": 0.004739999999999999
+    },
+    {
+      "timestamp": 1772883122.965556,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772883137.56777,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 871,
+      "cost": 0.0017419999999999998
+    },
+    {
+      "timestamp": 1772883190.653808,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 781,
+      "cost": 0.001562
+    },
+    {
+      "timestamp": 1772883225.470625,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2077,
+      "cost": 0.004154
+    },
+    {
+      "timestamp": 1772883235.503008,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1414,
+      "cost": 0.002828
+    },
+    {
+      "timestamp": 1772883271.857255,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3120,
+      "cost": 0.00624
+    },
+    {
+      "timestamp": 1772883272.597683,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 27941,
+      "cost": 0.055881999999999994
+    },
+    {
+      "timestamp": 1772883383.062773,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772883395.554156,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 724,
+      "cost": 0.0014479999999999999
+    },
+    {
+      "timestamp": 1772883451.0124002,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 784,
+      "cost": 0.001568
+    },
+    {
+      "timestamp": 1772883477.885578,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2079,
+      "cost": 0.004158
+    },
+    {
+      "timestamp": 1772883495.291668,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772883530.825443,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3117,
+      "cost": 0.006234
+    },
+    {
+      "timestamp": 1772883641.621953,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772883651.451481,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 583,
+      "cost": 0.001166
+    },
+    {
+      "timestamp": 1772883708.5901928,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 748,
+      "cost": 0.001496
+    },
+    {
+      "timestamp": 1772883736.557317,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2051,
+      "cost": 0.004102
+    },
+    {
+      "timestamp": 1772883753.657852,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1398,
+      "cost": 0.002796
+    },
+    {
+      "timestamp": 1772883790.128139,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3039,
+      "cost": 0.006078
+    },
+    {
+      "timestamp": 1772883801.780916,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 31767,
+      "cost": 0.063534
+    },
+    {
+      "timestamp": 1772883899.79849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772883915.976514,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 873,
+      "cost": 0.001746
+    },
+    {
+      "timestamp": 1772883967.484108,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 784,
+      "cost": 0.001568
+    },
+    {
+      "timestamp": 1772883996.2620668,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2091,
+      "cost": 0.004182
+    },
+    {
+      "timestamp": 1772884012.371489,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772884030.552253,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2392,
+      "cost": 0.004784
+    },
+    {
+      "timestamp": 1772884158.517811,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772884167.779444,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 562,
+      "cost": 0.001124
+    },
+    {
+      "timestamp": 1772884225.327431,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 741,
+      "cost": 0.001482
+    },
+    {
+      "timestamp": 1772884261.381249,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2067,
+      "cost": 0.004134
+    },
+    {
+      "timestamp": 1772884271.2040188,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1413,
+      "cost": 0.002826
+    },
+    {
+      "timestamp": 1772884307.1482592,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3126,
+      "cost": 0.006252
+    },
+    {
+      "timestamp": 1772884314.72516,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 33187,
+      "cost": 0.066374
+    },
+    {
+      "timestamp": 1772884449.243378,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772884464.5684988,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 885,
+      "cost": 0.0017699999999999999
+    },
+    {
+      "timestamp": 1772884516.860689,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 746,
+      "cost": 0.0014919999999999998
+    },
+    {
+      "timestamp": 1772884544.818824,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2084,
+      "cost": 0.004168
+    },
+    {
+      "timestamp": 1772884561.444625,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1399,
+      "cost": 0.0027979999999999997
+    },
+    {
+      "timestamp": 1772884599.1939578,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3032,
+      "cost": 0.006064
+    },
+    {
+      "timestamp": 1772884655.327849,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 4350,
+      "cost": 0.0087
+    },
+    {
+      "timestamp": 1772884716.5327601,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772884730.549264,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 771,
+      "cost": 0.001542
+    },
+    {
+      "timestamp": 1772884784.567842,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 806,
+      "cost": 0.001612
+    },
+    {
+      "timestamp": 1772884814.370755,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1732,
+      "cost": 0.0034639999999999996
+    },
+    {
+      "timestamp": 1772884828.292924,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1363,
+      "cost": 0.0027259999999999997
+    },
+    {
+      "timestamp": 1772884863.9529018,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2872,
+      "cost": 0.005744
+    },
+    {
+      "timestamp": 1772884931.4136162,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2454,
+      "cost": 0.004908
+    },
+    {
+      "timestamp": 1772885006.676826,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772885016.98318,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 663,
+      "cost": 0.001326
+    },
+    {
+      "timestamp": 1772885074.586248,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 786,
+      "cost": 0.0015719999999999998
+    },
+    {
+      "timestamp": 1772885085.226372,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 33981,
+      "cost": 0.067962
+    },
+    {
+      "timestamp": 1772885107.849812,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2049,
+      "cost": 0.004098
+    },
+    {
+      "timestamp": 1772885118.96877,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1403,
+      "cost": 0.002806
+    },
+    {
+      "timestamp": 1772885136.088065,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2393,
+      "cost": 0.0047859999999999995
+    },
+    {
+      "timestamp": 1772885264.887035,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772885284.181758,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772885332.0152,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 748,
+      "cost": 0.001496
+    },
+    {
+      "timestamp": 1772885366.9242601,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2090,
+      "cost": 0.00418
+    },
+    {
+      "timestamp": 1772885377.469602,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1421,
+      "cost": 0.002842
+    },
+    {
+      "timestamp": 1772885395.1849248,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2612,
+      "cost": 0.0052239999999999995
+    },
+    {
+      "timestamp": 1772885524.0063732,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772885537.709731,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 827,
+      "cost": 0.0016539999999999999
+    },
+    {
+      "timestamp": 1772885591.453581,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 772,
+      "cost": 0.001544
+    },
+    {
+      "timestamp": 1772885619.0805619,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2111,
+      "cost": 0.004222
+    },
+    {
+      "timestamp": 1772885638.590024,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772885676.1334798,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3108,
+      "cost": 0.006215999999999999
+    },
+    {
+      "timestamp": 1772885696.8825521,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 35151,
+      "cost": 0.070302
+    },
+    {
+      "timestamp": 1772885784.522165,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772885804.593594,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772885851.90061,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 759,
+      "cost": 0.001518
+    },
+    {
+      "timestamp": 1772885888.428745,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2088,
+      "cost": 0.004176
+    },
+    {
+      "timestamp": 1772885896.956595,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1402,
+      "cost": 0.002804
+    },
+    {
+      "timestamp": 1772885917.150879,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 34553,
+      "cost": 0.069106
+    },
+    {
+      "timestamp": 1772885935.408801,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3118,
+      "cost": 0.006235999999999999
+    },
+    {
+      "timestamp": 1772886077.3856099,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772886095.707853,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1122,
+      "cost": 0.002244
+    },
+    {
+      "timestamp": 1772886144.561537,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 767,
+      "cost": 0.001534
+    },
+    {
+      "timestamp": 1772886175.1823812,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1666,
+      "cost": 0.003332
+    },
+    {
+      "timestamp": 1772886189.92821,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1409,
+      "cost": 0.0028179999999999998
+    },
+    {
+      "timestamp": 1772886227.099659,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3128,
+      "cost": 0.006255999999999999
+    },
+    {
+      "timestamp": 1772886273.685933,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 3088,
+      "cost": 0.006176
+    },
+    {
+      "timestamp": 1772886337.587353,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772886351.9225569,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 776,
+      "cost": 0.001552
+    },
+    {
+      "timestamp": 1772886405.376539,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 778,
+      "cost": 0.0015559999999999999
+    },
+    {
+      "timestamp": 1772886441.935027,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2123,
+      "cost": 0.004246
+    },
+    {
+      "timestamp": 1772886449.715669,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1396,
+      "cost": 0.0027919999999999998
+    },
+    {
+      "timestamp": 1772886486.89039,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 2893,
+      "cost": 0.0057859999999999995
+    },
+    {
+      "timestamp": 1772886532.553741,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 6430,
+      "cost": 0.01286
+    },
+    {
+      "timestamp": 1772886602.7287838,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1299,
+      "cost": 0.002598
+    },
+    {
+      "timestamp": 1772886639.251016,
+      "provider": "mistral",
+      "model": "mistral-large-latest",
+      "tokens": 1123,
+      "cost": 0.0022459999999999997
+    }
+  ],
+  "daily_limit": 50.0,
+  "last_updated": 1772886639.263304
+}

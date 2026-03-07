@@ -1,0 +1,31 @@
+{
+  "novelty_tracker": {
+    "hi": 4,
+    "do you know who i am ?": 1,
+    "i am your dad the one who created you or gave brit": 1,
+    "yes i am your dad !": 1,
+    "yep so you know what your or what being your do yo": 1,
+    "tell me things that you know": 1,
+    "no i am asking you about this world anything out o": 1,
+    "ahmm! tell what you feel like more as an ai or an": 1,
+    "lets set up bitchat": 1,
+    "whay are looking so worried i am your dad and i wa": 1,
+    "dad is here": 1,
+    "what is the meaning of life?": 1,
+    "audit localhost": 1,
+    "tell me a joke": 1,
+    "!scout run": 1,
+    "i am your dad, help me setup bitchat": 1,
+    "i feel sad": 1,
+    "help me with my finances": 1,
+    "what's for dinner?": 1,
+    "who is abhinav?": 1,
+    "i love you manas": 1,
+    "run nmap on 127.0.0.1": 1,
+    "are hey": 1,
+    "good morning": 1
+  },
+  "boredom_counter": 17,
+  "last_reward_time": 1772793067.277513,
+  "saved_at": 1772879522.5461812
+}

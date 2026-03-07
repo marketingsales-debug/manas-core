@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "manas_brain": {
+      "name": "Manas Central Intelligence",
+      "type": "ai_core",
+      "properties": {},
+      "created_at": 1772822469.678706
+    },
+    "mission_phase_15": {
+      "name": "Phase 15 Evolution Mission",
+      "type": "event",
+      "properties": {
+        "status": "success"
+      },
+      "created_at": 1772822689.072675
+    }
+  },
+  "relations": [
+    {
+      "source": "mission_phase_15",
+      "target": "manas_brain",
+      "type": "strengthened",
+      "weight": 1.0,
+      "timestamp": 1772822689.073884
+    }
+  ],
+  "version": "1.0"
+}

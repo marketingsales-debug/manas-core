@@ -1,0 +1,352 @@
+/* ================================================================
+   Manas Brain Dashboard — Dark Glassmorphism Theme
+   Phase 3: Power & Scale
+   ================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ── Base ───────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-deep:    #070b14;
+  --bg-panel:   rgba(12, 20, 38, 0.75);
+  --bg-hover:   rgba(30, 50, 90, 0.5);
+  --border:     rgba(99, 179, 237, 0.12);
+  --border-glow:rgba(99, 179, 237, 0.35);
+  --accent:     #63b3ed;
+  --accent2:    #a78bfa;
+  --accent3:    #34d399;
+  --warning:    #fbbf24;
+  --danger:     #f87171;
+
+  --text:       #e2e8f0;
+  --text-dim:   #718096;
+  --text-bright:#f7fafc;
+
+  /* emotions */
+  --em-happiness:#FFD700;
+  --em-curiosity:#7C3AED;
+  --em-fear:     #EF4444;
+  --em-anxiety:  #F97316;
+  --em-confidence:#10B981;
+  --em-caution:  #FBBF24;
+
+  --radius: 14px;
+  --blur: 16px;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg-deep);
+  color: var(--text);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow: hidden;
+}
+
+/* ── Background ─────────────────────────────────────────────── */
+body::before {
+  content: '';
+  position: fixed; inset: 0;
+  background:
+    radial-gradient(ellipse 80% 60% at 20% 10%, rgba(99,179,237,0.07) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 80% at 80% 90%, rgba(167,139,250,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 40% at 50% 50%, rgba(52,211,153,0.04) 0%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── Layout ─────────────────────────────────────────────────── */
+#app {
+  position: relative; z-index: 1;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 52px 1fr;
+  grid-template-columns: 280px 1fr 300px;
+  grid-template-areas:
+    "header  header  header"
+    "sidebar main    right";
+  gap: 0;
+  overflow: hidden;
+}
+
+/* ── Header ─────────────────────────────────────────────────── */
+#header {
+  grid-area: header;
+  display: flex; align-items: center; gap: 12px;
+  padding: 0 20px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(7, 11, 20, 0.9);
+  backdrop-filter: blur(var(--blur));
+}
+
+.logo { font-size: 20px; font-weight: 700; letter-spacing: -0.5px; color: var(--text-bright); }
+.logo span { color: var(--accent); }
+
+.header-stat {
+  display: flex; align-items: center; gap: 6px;
+  padding: 4px 10px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 12px; color: var(--text-dim);
+}
+.header-stat .val { color: var(--text-bright); font-weight: 600; }
+.header-stat .dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent3);
+  box-shadow: 0 0 6px var(--accent3);
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+#connection-badge {
+  margin-left: auto;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 11px; font-weight: 600;
+  background: rgba(52,211,153,0.12);
+  border: 1px solid rgba(52,211,153,0.3);
+  color: var(--accent3);
+}
+#connection-badge.disconnected {
+  background: rgba(248,113,113,0.12);
+  border-color: rgba(248,113,113,0.3);
+  color: var(--danger);
+}
+
+/* ── Sidebar ─────────────────────────────────────────────────── */
+#sidebar {
+  grid-area: sidebar;
+  display: flex; flex-direction: column; gap: 12px;
+  padding: 14px;
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+}
+
+/* ── Main Area ──────────────────────────────────────────────── */
+#main {
+  grid-area: main;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+}
+
+/* ── Right Panel ─────────────────────────────────────────────── */
+#right {
+  grid-area: right;
+  display: flex; flex-direction: column; gap: 12px;
+  padding: 14px;
+  border-left: 1px solid var(--border);
+  overflow-y: auto;
+}
+
+/* ── Panel card ─────────────────────────────────────────────── */
+.panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  backdrop-filter: blur(var(--blur));
+  overflow: hidden;
+  transition: border-color 0.3s;
+}
+.panel:hover { border-color: var(--border-glow); }
+
+.panel-header {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--text-dim);
+}
+.panel-header .icon { font-size: 14px; }
+.panel-body { padding: 12px 14px; }
+
+/* ── Emotion Bars ───────────────────────────────────────────── */
+.emotion-row {
+  display: flex; align-items: center; gap: 8px;
+  margin-bottom: 8px;
+}
+.emotion-label { width: 80px; font-size: 11px; color: var(--text-dim); flex-shrink: 0; }
+.emotion-bar-track {
+  flex: 1; height: 6px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 4px; overflow: hidden;
+}
+.emotion-bar-fill {
+  height: 100%; border-radius: 4px;
+  transition: width 0.6s cubic-bezier(0.4,0,0.2,1);
+}
+.emotion-val { width: 32px; font-size: 11px; color: var(--text-dim); text-align: right; font-family: 'JetBrains Mono', monospace; }
+
+/* ── Neural Activity ────────────────────────────────────────── */
+.neural-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+.neural-cell {
+  position: relative;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+  transition: border-color 0.3s;
+}
+.neural-cell-bg {
+  position: absolute; inset: 0;
+  transition: opacity 0.5s ease;
+  border-radius: 8px;
+}
+.neural-cell-name { font-size: 9px; color: var(--text-dim); position: relative; text-transform: uppercase; letter-spacing: 0.05em; }
+.neural-cell-val  { font-size: 13px; font-weight: 600; color: var(--text-bright); position: relative; font-family: 'JetBrains Mono', monospace; }
+
+/* ── Chat ───────────────────────────────────────────────────── */
+#chat-area {
+  flex: 1; overflow-y: auto;
+  display: flex; flex-direction: column; gap: 10px;
+  padding: 14px;
+  scroll-behavior: smooth;
+}
+
+.msg {
+  max-width: 82%; border-radius: 12px; padding: 10px 14px;
+  font-size: 13.5px; line-height: 1.55;
+  animation: msg-in 0.25s ease;
+}
+.msg.user {
+  align-self: flex-end;
+  background: rgba(99,179,237,0.15); border: 1px solid rgba(99,179,237,0.25);
+}
+.msg.manas {
+  align-self: flex-start;
+  background: rgba(167,139,250,0.1); border: 1px solid rgba(167,139,250,0.2);
+}
+.msg.system {
+  align-self: center; max-width: 100%;
+  background: rgba(52,211,153,0.07); border: 1px solid rgba(52,211,153,0.15);
+  font-size: 11px; color: var(--text-dim); text-align: center;
+}
+.msg-meta { font-size: 10px; color: var(--text-dim); margin-top: 5px; }
+.msg-tool {
+  margin-top: 6px; padding: 6px 10px;
+  background: rgba(251,191,36,0.08); border: 1px solid rgba(251,191,36,0.2);
+  border-radius: 8px; font-size: 11px; color: var(--warning);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ── Chat input ─────────────────────────────────────────────── */
+#chat-input-area {
+  display: flex; gap: 8px;
+  padding: 12px 14px;
+  border-top: 1px solid var(--border);
+  background: rgba(7,11,20,0.6);
+}
+
+#chat-input {
+  flex: 1; padding: 10px 14px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  color: var(--text); font-size: 13.5px; font-family: 'Inter', sans-serif;
+  outline: none; transition: border-color 0.2s;
+}
+#chat-input:focus { border-color: var(--accent); }
+#chat-input::placeholder { color: var(--text-dim); }
+
+#send-btn {
+  padding: 10px 20px;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  border: none; border-radius: 24px;
+  color: white; font-weight: 600; font-size: 13px;
+  cursor: pointer; transition: opacity 0.2s, transform 0.1s;
+}
+#send-btn:hover { opacity: 0.9; }
+#send-btn:active { transform: scale(0.97); }
+#send-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ── Inner Monologue ────────────────────────────────────────── */
+.thought-item {
+  padding: 7px 10px;
+  border-left: 2px solid var(--accent2);
+  background: rgba(167,139,250,0.06);
+  border-radius: 0 6px 6px 0;
+  font-size: 11.5px; color: var(--text-dim);
+  margin-bottom: 5px;
+  animation: slide-in 0.3s ease;
+}
+.thought-item .thought-type {
+  font-size: 9px; font-weight: 600; text-transform: uppercase;
+  color: var(--accent2); letter-spacing: 0.06em; margin-bottom: 2px;
+}
+
+/* ── Goals ──────────────────────────────────────────────────── */
+.goal-item { margin-bottom: 10px; }
+.goal-name  { font-size: 11.5px; color: var(--text); margin-bottom: 3px; }
+.goal-meta  { font-size: 10px; color: var(--text-dim); margin-bottom: 4px; }
+.goal-progress-track {
+  height: 5px; background: rgba(255,255,255,0.05);
+  border-radius: 3px; overflow: hidden;
+}
+.goal-progress-fill {
+  height: 100%; border-radius: 3px;
+  background: linear-gradient(90deg, var(--accent3), var(--accent));
+  transition: width 0.6s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ── Consciousness indicator ─────────────────────────────────── */
+#consciousness-orb {
+  width: 60px; height: 60px;
+  border-radius: 50%;
+  margin: 10px auto;
+  background: radial-gradient(circle at 35% 35%, rgba(99,179,237,0.8), rgba(167,139,250,0.4));
+  box-shadow: 0 0 20px rgba(99,179,237,0.3), 0 0 60px rgba(99,179,237,0.1);
+  transition: all 0.8s ease;
+  animation: orb-breathe 4s ease-in-out infinite;
+}
+
+/* ── Neurochem bars ─────────────────────────────────────────── */
+.chem-row { display: flex; align-items: center; gap: 6px; margin-bottom: 5px; }
+.chem-label { width: 90px; font-size: 10px; color: var(--text-dim); }
+.chem-bar-track { flex: 1; height: 4px; background: rgba(255,255,255,0.05); border-radius: 3px; overflow: hidden; }
+.chem-bar-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease; }
+.chem-val { width: 28px; font-size: 10px; color: var(--text-dim); text-align: right; font-family: 'JetBrains Mono', monospace; }
+
+/* ── Status badge ───────────────────────────────────────────── */
+.badge {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 8px; border-radius: 10px;
+  font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.badge-emotion {
+  background: rgba(99,179,237,0.12); border: 1px solid rgba(99,179,237,0.25); color: var(--accent);
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(99,179,237,0.2); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(99,179,237,0.4); }
+
+/* ── Animations ─────────────────────────────────────────────── */
+@keyframes pulse-dot {
+  0%,100% { opacity: 1; box-shadow: 0 0 6px var(--accent3); }
+  50%      { opacity: 0.5; box-shadow: 0 0 12px var(--accent3); }
+}
+@keyframes orb-breathe {
+  0%,100% { transform: scale(1);    box-shadow: 0 0 20px rgba(99,179,237,0.3), 0 0 60px rgba(99,179,237,0.1); }
+  50%      { transform: scale(1.08); box-shadow: 0 0 30px rgba(99,179,237,0.5), 0 0 80px rgba(99,179,237,0.2); }
+}
+@keyframes msg-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes slide-in {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+/* ── Responsive tweaks ───────────────────────────────────────── */
+@media (max-width: 1100px) {
+  #app { grid-template-columns: 240px 1fr 260px; }
+}

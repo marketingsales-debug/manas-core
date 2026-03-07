@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///opt/homebrew/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.98 scan initiated Sat Mar  7 15:38:48 2026 as: nmap -Pn -p 80,443,8080,8443,8000,3000,5000,9000,8081,8888 -sV -&#45;script http-title,http-enum,ssl-cert,vuln -oA 192.168.1.0_webports 192.168.1.0 -->
+<nmaprun scanner="nmap" args="nmap -Pn -p 80,443,8080,8443,8000,3000,5000,9000,8081,8888 -sV -&#45;script http-title,http-enum,ssl-cert,vuln -oA 192.168.1.0_webports 192.168.1.0" start="1772878128" startstr="Sat Mar  7 15:38:48 2026" version="7.98" xmloutputversion="1.05">
+<scaninfo type="connect" protocol="tcp" numservices="10" services="80,443,3000,5000,8000,8080-8081,8443,8888,9000"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<host starttime="1772878136" endtime="1772878141"><status state="up" reason="user-set" reason_ttl="0"/>
+<address addr="192.168.1.0" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><port protocol="tcp" portid="80"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="http" method="table" conf="3"/></port>
+<port protocol="tcp" portid="443"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="https" method="table" conf="3"/></port>
+<port protocol="tcp" portid="3000"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="ppp" method="table" conf="3"/></port>
+<port protocol="tcp" portid="5000"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="upnp" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8000"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="http-alt" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8080"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="http-proxy" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8081"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="blackice-icecap" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8443"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="https-alt" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8888"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="sun-answerbook" method="table" conf="3"/></port>
+<port protocol="tcp" portid="9000"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="cslistener" method="table" conf="3"/></port>
+</ports>
+</host>
+<runstats><finished time="1772878141" timestr="Sat Mar  7 15:39:01 2026" summary="Nmap done at Sat Mar  7 15:39:01 2026; 1 IP address (1 host up) scanned in 12.92 seconds" elapsed="12.92" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

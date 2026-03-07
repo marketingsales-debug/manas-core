@@ -1,0 +1,609 @@
+================================================================================
+                     PROJECT MANAS - PROGRESS LOG
+                   Foundational Human-Like AI System
+================================================================================
+
+Started: March 5, 2026
+Last Updated: March 6, 2026 (Phase 2 — Autonomy & Agency)
+
+================================================================================
+VISION: Build a foundational AI that thinks, works, and feels like a human.
+================================================================================
+
+ARCHITECTURE OVERVIEW:
+  Manas mimics the human brain with:
+  - Spiking neural networks (NOT matrix multiplication)
+  - Neurochemistry-based emotions (dopamine, cortisol, serotonin, etc.)
+  - Multiple brain regions that process in parallel
+  - STDP learning (neurons that fire together wire together)
+  - Predictive coding (brain as prediction machine)
+  - Global Workspace consciousness model
+  - Sleep cycles for memory consolidation
+  - 5 senses as independent agents
+  - Ollama LLM as Broca's voice box (speech production)
+  - Multi-turn conversation memory (SQLite-backed)
+  - Goal & motivation system (curiosity, social, survival drives)
+  - Inner dialog (self-talk before responding)
+  - Personality/identity with Big Five drift (SelfModel)
+
+================================================================================
+SESSION 1: March 6, 2026 - Major Integration Sprint
+================================================================================
+
+STATUS AT START:
+  [BUILT] src/brain/neuron.py - Spiking LIF neurons + clusters
+  [BUILT] src/brain/synapse.py - STDP + Hebbian plasticity
+  [BUILT] src/brain/network.py - Full brain network simulation
+  [BUILT] src/neurotransmitters/chemistry.py - 6 neurochemicals, emotional states
+  [BUILT] src/brain/regions/amygdala.py - Threat detection, fear learning
+  [BUILT] src/brain/regions/prefrontal.py - Rational reasoning, planning
+  [BUILT] src/brain/regions/hippocampus.py - Memory (SQLite), consolidation
+  [BUILT] src/brain/regions/sensory.py - Text -> neural pattern encoding
+  [BUILT] src/brain/regions/thalamus.py - Sensory relay, gating, sleep/wake
+  [BUILT] src/brain/regions/basal_ganglia.py - Action selection, habits, RPE
+  [BUILT] src/brain/regions/cerebellum.py - Sequences, forward models, timing
+  [BUILT] src/brain/regions/insula.py - Interoception, empathy, disgust
+  [BUILT] src/brain/regions/acc.py - Conflict monitoring, error detection
+  [BUILT] src/brain/mechanisms/attention.py - Spotlight, salience, top-down
+  [BUILT] src/brain/mechanisms/predictive_coding.py - Free energy, hierarchy
+  [BUILT] src/brain/mechanisms/consciousness.py - Global Workspace Theory
+  [BUILT] src/brain/mechanisms/language.py - Wernicke's + Broca's + semantics
+  [BUILT] src/brain/mechanisms/sleep.py - NREM/REM cycles, consolidation
+  [BUILT] src/brain/mechanisms/imagination.py - DMN, self-model, creativity
+  [BUILT] src/brain/mechanisms/cortical_column.py - Thousand Brains columns
+  [BUILT] src/executor/shell.py - Shell command execution with safety
+  [BUILT] src/executor/web.py - Web search + page reading
+  [BUILT] src/learning/engine.py - Reinforcement learning, pattern extraction
+  [BUILT] src/learning/foundational.py - Seed knowledge, dataset learning
+  [BUILT] src/senses/agent_senses.py - Vision, Hearing, Touch, Smell, Proprio
+  [BUILT] src/cognition/mind.py - Central cognitive loop
+  [BUILT] src/interface/chat.py - CLI interface
+
+CRITICAL GAP IDENTIFIED:
+  The Mind class (src/cognition/mind.py) only uses 5 brain systems:
+    - Amygdala, Prefrontal Cortex, Hippocampus, Sensory Processor, Brain Network
+
+  The following 10 systems are BUILT but NOT INTEGRATED into Mind:
+    1. Thalamus (sensory relay, gating)
+    2. Basal Ganglia (action selection, habits)
+    3. Cerebellum (sequences, predictions)
+    4. Insula (gut feelings, empathy, disgust)
+    5. ACC (conflict monitoring, error detection)
+    6. Attention System (spotlight, salience)
+    7. Predictive Coding (free energy, surprise)
+    8. Consciousness System (global workspace)
+    9. Language System (Wernicke's + Broca's)
+    10. Sleep System (NREM/REM, consolidation)
+    11. Imagination/DMN (creativity, self-model)
+    12. Cortical Columns (pattern recognition)
+
+TASK: Wire all 12 systems into Mind to create a truly unified cognitive agent.
+
+================================================================================
+WORK LOG:
+================================================================================
+
+[2026-03-06 Session 1 Start]
+  - Read and analyzed ALL 28 source files
+  - Created this progress log at data/progress_log.txt
+  - Identified integration gap: 12 brain systems not wired into Mind
+  - Starting integration work...
+
+[2026-03-06 Integration Phase 1: Mind.py Rewrite]
+  - Integrating Thalamus as central relay
+  - Integrating Basal Ganglia for action selection
+  - Integrating Cerebellum for sequence learning
+  - Integrating Insula for gut feelings + empathy
+  - Integrating ACC for conflict monitoring
+  - Integrating Attention System
+  - Integrating Predictive Coding
+  - Integrating Consciousness (Global Workspace)
+  - Integrating Language System
+  - Integrating Sleep System
+  - Integrating Imagination/DMN
+  - Adding new CLI commands for all systems
+
+[2026-03-06 Integration Phase 1: COMPLETE]
+  ALL 12 BRAIN SYSTEMS INTEGRATED INTO MIND.PY:
+  - Thalamus: central relay for ALL sensory input, sleep/wake gating
+  - Basal Ganglia: GO/NO-GO action selection, habit learning, reward prediction
+  - Cerebellum: forward models, sequence learning, prediction error correction
+  - Insula: gut feelings, empathy, body state awareness (interoception)
+  - ACC: conflict monitoring, error detection, effort allocation
+  - Attention System: spotlight, salience, top-down goal focus
+  - Predictive Coding: free energy minimization, surprise detection at 4 levels
+  - Consciousness: global workspace broadcast, metacognition
+  - Language System: Wernicke's comprehension + Broca's generation + semantics
+  - Sleep System: NREM/REM cycles, memory consolidation, dreaming
+  - Imagination/DMN: mind wandering, future simulation, past reflection
+  - Cortical Columns: pattern recognition, Thousand Brains voting
+
+  NEURAL WIRING (spiking network connections):
+  - ~4,000 neurons across 13 clusters (sensory, amygdala, prefrontal,
+    hippocampus, motor, thalamus, basal_ganglia, cerebellum, insula,
+    acc, wernicke, broca, dmn)
+  - 30+ inter-cluster pathways with biologically-inspired weights
+  - Key pathways: sensory->thalamus->cortex, basal_ganglia->thalamus->motor,
+    motor->cerebellum->motor, amygdala->insula, insula->acc->prefrontal,
+    wernicke<->broca (arcuate fasciculus), dmn<->hippocampus<->prefrontal
+  - Thalamo-cortical feedback loops for consciousness
+
+  COGNITIVE LOOP UPGRADED (process_input now runs 14 stages):
+  1. Sensory -> thalamic relay
+  2. Predictive coding (surprise detection)
+  3. Emotional reaction (amygdala fast path)
+  4. Gut feeling (insula)
+  5. Attention allocation
+  6. Memory recall
+  7. Language comprehension (Wernicke's)
+  8. Rational analysis (prefrontal)
+  9. Conflict monitoring (ACC)
+  10. Consciousness broadcast (global workspace)
+  11. Cortical pattern recognition
+  12. Language generation (Broca's)
+  13. Semantic association learning
+  14. Sleep debt accumulation
+
+  EXECUTE_ACTION UPGRADED:
+  - Cerebellum predicts outcome before execution
+  - Insula provides gut feeling
+  - Basal ganglia GO/NO-GO selection
+  - Cerebellum learns from prediction errors post-execution
+  - Basal ganglia reward learning
+
+  NEW MIND METHODS:
+  - dream(cycles) - full NREM/REM sleep cycles
+  - get_dreams() - retrieve dream content
+  - imagine(scenario) - DMN future simulation
+  - mind_wander() - free association
+  - reflect(event) - past event reflection
+  - conscious_state() - consciousness introspection
+  - speak() - inner speech generation
+  - focus_on(goal) - set attention goal
+
+  15 NEW CLI COMMANDS ADDED TO chat.py:
+  - !dream [n]      - Sleep for n cycles
+  - !dreams          - Show recent dreams
+  - !imagine <what>  - Imagine a scenario
+  - !wander          - Mind wander freely
+  - !reflect <event> - Reflect on past
+  - !consciousness   - Show consciousness state
+  - !attention [goal] - Show/set attention
+  - !language        - Language system stats
+  - !predict         - Predictive coding state
+  - !habits          - Basal ganglia stats
+  - !cerebellum      - Sequence/prediction stats
+  - !feelings        - Insula gut feelings
+  - !conflict        - ACC conflict monitor
+  - !thalamus        - Relay station state
+  - !cortex          - Cortical column stats
+
+  ALSO FIXED:
+  - requirements.txt: removed fake sqlite3-api package
+  - Created .venv with python3.14 and all dependencies
+  - Language system now learns semantic associations from conversation
+  - Natural language response via Broca's area in process_input
+
+================================================================================
+SESSION 2: March 6, 2026 - Personality, Motivation, LLM Voice, Tests
+================================================================================
+
+[2026-03-06 Session 2: Ollama LLM Integration]
+  NEW FILE: src/executor/ollama.py (116 lines)
+  - OllamaExecutor: HTTP client for local Ollama API
+  - Serves as Broca's "voice box" — converts brain state to natural language
+  - Health checking with 30s cache TTL
+  - Text generation with system prompts, temperature, max_tokens
+  - Graceful fallback when Ollama is unavailable
+  - Stats tracking (generation count, avg latency)
+  - Default model: llama3.1 on localhost:11434
+  - KEY DESIGN: This is NOT the intelligence — it's the mouth.
+    The spiking neural network does the thinking; Ollama verbalizes it.
+
+[2026-03-06 Session 2: Conversation Memory]
+  NEW FILE: src/brain/mechanisms/conversation.py (170 lines)
+  - ConversationManager: multi-turn dialog tracking with SQLite
+  - ConversationTurn dataclass (role, content, timestamp, emotions, session_id)
+  - Stores user + manas turns with emotional context snapshots
+  - get_recent_turns(n) — retrieve last N turns from current session
+  - get_context_window(n) — formatted "User: ... / Manas: ..." for prompts
+  - Session management (start_new_session, session_summary)
+  - Persists across restarts via SQLite at data/conversations.db
+  - SHORT-TERM memory buffer (not long-term; that's hippocampus)
+  - Integrated into Mind.__init__ and process_input (stores every turn)
+
+[2026-03-06 Session 2: Goal & Motivation System]
+  NEW FILE: src/brain/mechanisms/motivation.py (223 lines)
+  - Goal dataclass with id, name, category, priority, progress, active
+  - GoalSystem: hierarchical goal management
+    - 8 seed goals across 4 categories:
+      survival (survive, maintain_health)
+      growth (learn_new, improve_skills)
+      social (help_user, understand_user)
+      curiosity (explore_topics, ask_questions)
+    - Dynamic goal addition, progress tracking, completion rewards
+  - MotivationEngine: computes drives from neurochemistry + goals
+    - curiosity_drive (dopamine-driven)
+    - social_drive (oxytocin-driven)
+    - survival_drive (cortisol + norepinephrine)
+    - contentment (serotonin + endorphins)
+    - Boredom counter increases curiosity over time without reward
+    - Novelty tracking to avoid repetition
+    - get_motivation_context() for Ollama prompt injection
+  - Integrated into Mind.__init__ and process_input:
+    - Novelty tracking on each input
+    - Goal progress updates (appreciation -> help_user, all -> learn_new)
+    - Motivation context fed to Broca's for response generation
+
+[2026-03-06 Session 2: Inner Dialog (Broca's self-talk)]
+  MODIFIED: src/brain/mechanisms/language.py
+  - BrocasArea.run_inner_dialog() — Manas thinks in words before responding
+  - Takes comprehension, emotions, reasoning, and optional memories
+  - Generates internal monologue like "They're asking about X, I feel curious..."
+  - Inner speech stored in buffer
+  - Submitted to consciousness (global workspace) for metacognition
+  - Inner thought passed to Broca's generate_response for richer output
+
+[2026-03-06 Session 2: Identity & Personality (SelfModel)]
+  MODIFIED: src/brain/mechanisms/imagination.py
+  - SelfModel.identity: name ("Manas"), origin, nature, core values, voice
+  - SelfModel.personality_drift: Big Five traits that evolve over time
+    - openness, conscientiousness, extraversion, agreeableness, neuroticism
+  - evolve_personality(event_type, intensity) — shifts traits:
+    - "learning" -> +openness
+    - "threat" -> +neuroticism
+    - "appreciation" -> +agreeableness, -neuroticism
+  - generate_identity_prompt() — builds system prompt with identity + life events
+  - who_am_i() — returns self-description
+  - add_life_event() — remembers significant experiences
+  - Personality evolution integrated into Mind.process_input (each interaction)
+
+[2026-03-06 Session 2: Comprehensive Ollama Language Pipeline]
+  MODIFIED: src/brain/mechanisms/language.py
+  - BrocasArea.generate_response() now accepts ollama executor
+  - _build_ollama_prompt() creates rich system prompt with:
+    identity, emotions, memories, reasoning, comprehension,
+    conversation history, inner thought, gut feeling, conflict level,
+    consciousness state, motivation context
+  - Ollama-first with template fallback when unavailable
+  - Language response source tracked ("ollama" vs "template")
+
+[2026-03-06 Session 2: Mind.py Expansion]
+  MODIFIED: src/cognition/mind.py (now 1,016 lines, 30 methods)
+  - NEW imports: ConversationManager, GoalSystem, MotivationEngine
+  - NEW __init__ components:
+    - self.conversation = ConversationManager (SQLite at data/conversations.db)
+    - self.goal_system = GoalSystem (8 seed goals)
+    - self.motivation = MotivationEngine (neurochemistry-driven drives)
+  - process_input ENHANCED (now 14+ stages):
+    - Stage 9.5: Inner dialog (run_inner_dialog before responding)
+    - Stage 12: Broca's + Ollama with full context injection
+      (identity, conversation window, inner thought, gut feeling,
+       conflict level, consciousness, motivation)
+    - Stage 13: Conversation turns stored (user + manas)
+    - Personality evolution after each interaction
+    - Motivation novelty tracking + goal progress updates
+
+[2026-03-06 Session 2: Chat CLI Expansion]
+  MODIFIED: src/interface/chat.py (now 598 lines)
+  - CLI banner expanded with SELF section + new commands
+  - Additional commands added for motivation, identity, conversation systems
+
+[2026-03-06 Session 2: Test Suite Created]
+  NEW DIRECTORY: tests/ (6 test files + conftest.py)
+
+  tests/conftest.py (24 lines):
+  - Shared fixtures: tmp_data_dir (tempdir), mock_neurochem (real NeurochemicalSystem)
+
+  tests/test_conversation.py (70 lines, 7 tests):
+  - TestConversationManager:
+    - test_init_creates_db, test_store_and_retrieve_turns
+    - test_context_window_format, test_context_window_empty
+    - test_turn_counter_increments, test_new_session, test_session_summary
+
+  tests/test_identity.py (68 lines, 8 tests):
+  - TestSelfModel:
+    - test_identity_fields, test_generate_identity_prompt
+    - test_generate_identity_prompt_includes_memories
+    - test_evolve_personality_learning/threat/appreciation
+    - test_personality_stays_in_bounds, test_evolve_unknown_type_no_crash
+    - test_who_am_i
+
+  tests/test_inner_dialog.py (73 lines, 7 tests):
+  - TestInnerDialog:
+    - test_run_inner_dialog_returns_string
+    - test_inner_dialog_reflects_question/appreciation
+    - test_inner_dialog_with_memories, test_inner_dialog_stored_in_buffer
+    - test_high_confidence_reasoning, test_low_confidence_reasoning
+
+  tests/test_motivation.py (85 lines, 8 tests):
+  - TestGoalSystem: seed_goals, active_goals, top_goal, update_progress,
+    complete_goal, add_goal, get_state
+  - TestMotivationEngine: compute_drive, track_novelty,
+    get_motivation_context, reward_resets_boredom
+
+  tests/test_ollama_executor.py (76 lines, 7 tests):
+  - TestOllamaExecutor: init_defaults, health_check_success/failure,
+    is_available_caches, generate_success, generate_returns_none_on_error,
+    generate_returns_none_when_unavailable, get_stats
+
+  tests/test_language_ollama.py (127 lines, 7 tests):
+  - TestBrocasOllamaIntegration: generate_with_ollama, fallback_unavailable,
+    fallback_returns_none, fallback_no_ollama,
+    system_prompt_includes_identity/emotions, build_ollama_prompt_all_context
+  - TestLanguageSystemOllama: passes_ollama
+
+  TOTAL: 44 unit tests across 6 files
+
+================================================================================
+COMPLETE FILE INVENTORY (as of March 6, 2026):
+================================================================================
+
+  BRAIN CORE (3 files):
+    src/brain/neuron.py          - 8,049 bytes  - LIF spiking neurons, clusters
+    src/brain/synapse.py         - 5,870 bytes  - STDP + Hebbian plasticity
+    src/brain/network.py         - 7,150 bytes  - Full brain network simulation
+
+  BRAIN REGIONS (9 files):
+    src/brain/regions/sensory.py       - 4,035 bytes  - Text -> neural encoding
+    src/brain/regions/thalamus.py      - 8,990 bytes  - Central relay, gating
+    src/brain/regions/amygdala.py      - 5,085 bytes  - Threat, fear learning
+    src/brain/regions/prefrontal.py    - 5,121 bytes  - Reasoning, planning
+    src/brain/regions/hippocampus.py   - 9,965 bytes  - Memory (SQLite)
+    src/brain/regions/basal_ganglia.py - 13,156 bytes - Action selection, habits
+    src/brain/regions/cerebellum.py    - 10,242 bytes - Sequences, forward models
+    src/brain/regions/insula.py        - 11,232 bytes - Interoception, empathy
+    src/brain/regions/acc.py           - 10,556 bytes - Conflict, error detection
+
+  BRAIN MECHANISMS (9 files):
+    src/brain/mechanisms/attention.py         - 10,180 bytes - Spotlight, salience
+    src/brain/mechanisms/predictive_coding.py - 9,309 bytes  - Free energy
+    src/brain/mechanisms/consciousness.py     - 12,805 bytes - Global Workspace
+    src/brain/mechanisms/language.py          - 24,466 bytes - Wernicke+Broca+Ollama
+    src/brain/mechanisms/sleep.py             - 12,477 bytes - NREM/REM cycles
+    src/brain/mechanisms/imagination.py       - 17,856 bytes - DMN, SelfModel
+    src/brain/mechanisms/cortical_column.py   - 11,200 bytes - Thousand Brains
+    src/brain/mechanisms/conversation.py      - 5,260 bytes  - Multi-turn dialog [NEW]
+    src/brain/mechanisms/motivation.py        - 8,152 bytes  - Goals, drives [NEW]
+
+  NEUROCHEMISTRY (1 file):
+    src/neurotransmitters/chemistry.py - 7,762 bytes - 6 neurochemicals
+
+  COGNITION (1 file):
+    src/cognition/mind.py - 44,195 bytes (1,016 lines, 30 methods)
+
+  EXECUTORS (3 files):
+    src/executor/shell.py  - 3,671 bytes - Safe shell execution
+    src/executor/web.py    - 4,733 bytes - Web search + reading
+    src/executor/ollama.py - 3,753 bytes - Ollama LLM client [NEW]
+
+  LEARNING (2 files):
+    src/learning/engine.py       - 8,733 bytes  - RL, pattern extraction
+    src/learning/foundational.py - 17,901 bytes - Seed knowledge, datasets
+
+  SENSES (1 file):
+    src/senses/agent_senses.py - 22,937 bytes - 5 senses as agents
+
+  INTERFACE (1 file):
+    src/interface/chat.py - 27,717 bytes (598 lines) - CLI
+
+  TESTS (7 files):
+    tests/conftest.py              - 536 bytes   - Shared fixtures [NEW]
+    tests/test_conversation.py     - 2,437 bytes - 7 tests [NEW]
+    tests/test_identity.py         - 2,420 bytes - 8 tests [NEW]
+    tests/test_inner_dialog.py     - 2,891 bytes - 7 tests [NEW]
+    tests/test_motivation.py       - 2,825 bytes - 8 tests [NEW]
+    tests/test_ollama_executor.py  - 2,862 bytes - 7 tests [NEW]
+    tests/test_language_ollama.py  - 4,983 bytes - 7 tests [NEW]
+
+  DATA:
+    data/memories.db             - 77,824 bytes  - Hippocampal memories (+ embeddings)
+    data/foundational_knowledge.db - 131,072 bytes - Seed knowledge
+    data/conversations.db        - 16,384 bytes  - Conversation turns
+    data/self_model.json         - ~1 KB         - Personality/identity state [NEW]
+    data/goals.json              - ~1 KB         - Goal progress/state [NEW]
+    data/motivation.json         - ~1 KB         - Motivation counters
+    data/user_model.json         - ~1 KB         - User understanding model [NEW]
+    data/progress_log.txt        - THIS FILE
+
+  TOTAL: 34 source files + 12 test files + 3 databases + 4 JSON state = 53 project files
+
+================================================================================
+WHAT TO DO IF DISCONNECTED:
+================================================================================
+
+1. Read this file first: /Users/avipattan/manas/data/progress_log.txt
+2. Check what's been done by reading src/cognition/mind.py
+3. Check src/interface/chat.py for CLI updates
+4. The goal: all brain systems integrated into Mind and accessible via CLI
+5. Test by running: cd /Users/avipattan/manas && python run.py
+6. Run tests: cd /Users/avipattan/manas && python -m pytest tests/ -v
+
+================================================================================
+REMAINING WORK (TODO):
+================================================================================
+
+[X] Integrate all 12 unconnected brain systems into Mind  ✓ DONE
+[X] Update CLI with commands for new systems (15 new commands)  ✓ DONE
+[X] Add natural language response generation (Broca's area)  ✓ DONE
+[X] Fix requirements.txt (removed sqlite3-api)  ✓ DONE
+[X] Add personality/identity system (SelfModel in imagination.py)  ✓ DONE
+[X] Add conversation memory (ConversationManager, SQLite-backed)  ✓ DONE
+[X] Add internal dialog (BrocasArea.run_inner_dialog)  ✓ DONE
+[X] Add goal system (GoalSystem w/ hierarchical goals)  ✓ DONE
+[X] Add motivation system (MotivationEngine w/ drives)  ✓ DONE
+[X] Add tests (now 103 tests across 12 files)  ✓ DONE
+[X] Add vector embeddings for semantic memory recall  ✓ DONE (Phase 1)
+[X] Add long-term personality persistence (save/load SelfModel state)  ✓ DONE (Phase 1)
+[X] Add social model (understanding the user)  ✓ DONE (Phase 2)
+[X] Add background autonomous loop (mind thinks when idle)  ✓ DONE (Phase 2)
+[X] Add autonomous goal generation (Manas creates its own goals)  ✓ DONE (Phase 2)
+[ ] Add emotional memory tagging (hippocampus emotional indexing)
+[ ] Add multi-modal sensory fusion (combine senses for richer perception)
+[ ] Add metacognitive monitoring (self-evaluation of reasoning quality)
+[ ] Add tool use system (structured tool registry + dispatch)
+[ ] Add web dashboard (FastAPI + WebSocket real-time brain visualization)
+[ ] Add memory tiers (working memory, forgetting curves)
+
+================================================================================
+
+================================================================================
+SESSION 3: PHASE 1 — INTELLIGENCE UPGRADE (Vector Embeddings + Persistence)
+================================================================================
+Date: March 6, 2026
+Duration: ~1 hour implementation + testing
+
+GOAL: Make Manas's memory recall intelligent (semantic, not keyword-based)
+      and give Manas continuity across restarts (persistent personality).
+
+CHANGES MADE:
+
+  1. VECTOR EMBEDDINGS FOR SEMANTIC MEMORY
+     ─────────────────────────────────────
+     [NEW] src/memory/__init__.py        — Package init for memory module
+     [NEW] src/memory/embeddings.py      — EmbeddingEngine class
+       • Uses sentence-transformers (all-MiniLM-L6-v2, 384-dim, ~80MB)
+       • Thread-safe singleton for model loading
+       • Cosine similarity for semantic matching
+       • Batch embedding for migration of existing memories
+       • BLOB serialization for SQLite storage
+
+     [MODIFIED] src/brain/regions/hippocampus.py
+       • Added 'embedding' BLOB column to memories table
+       • store() now embeds content on save (384-dim vector)
+       • recall() tries _semantic_recall() first, falls back to _keyword_recall()
+       • Blended scoring: semantic 45% + importance 20% + emotion 15% + recency 10%
+       • embed_all_memories() for batch migration of existing memories
+       • get_embedding_stats() for coverage monitoring
+       • ALT TABLE migration for existing databases
+
+     BEFORE: recall("AI programming") — keyword LIKE match, fragile
+     AFTER:  recall("AI programming") — finds "python for machine learning" by MEANING
+
+  2. PERSISTENT STATE (PERSONALITY SURVIVES RESTARTS)
+     ────────────────────────────────────────────────
+     [MODIFIED] src/brain/mechanisms/imagination.py — SelfModel
+       • save_state(path) — saves personality_drift, capabilities, life events to JSON
+       • load_state(path) — loads with merge (handles new traits gracefully)
+
+     [MODIFIED] src/brain/mechanisms/motivation.py — GoalSystem + MotivationEngine
+       • GoalSystem.save_state()/load_state() — goals with progress/active state
+       • MotivationEngine.save_state()/load_state() — novelty tracker, boredom counter
+
+     [MODIFIED] src/cognition/mind.py
+       • _load_persisted_state() called on init — auto-loads personality/goals/motivation
+       • save_all_state() — persists all 3 components before shutdown
+
+     [MODIFIED] src/interface/chat.py
+       • quit handler now calls save_all_state() before exit
+       • Ctrl+C handler also saves state
+
+     BEFORE: Manas forgot its personality on every restart
+     AFTER:  Manas remembers who it is, its goals, and its experiences
+
+  3. CLI UPDATES
+     ───────────
+     • !embed — batch embed all un-embedded memories
+     • !memory — now shows embedding coverage stats
+
+  4. TESTS
+     ─────
+     [NEW] tests/test_embeddings.py — 12 tests
+       • EmbeddingEngine: vector ops, serialization, similarity, batch, edge cases
+       • Semantic recall: finds memories by meaning, keyword fallback, batch migration
+
+     [NEW] tests/test_persistence.py — 7 tests
+       • SelfModel: save/load personality, corruption handling, trait merging
+       • GoalSystem: save/load goals with progress, dynamic goals
+       • MotivationEngine: save/load novelty tracker, boredom counter
+
+  5. DEPENDENCY UPDATES
+     ──────────────────
+     [MODIFIED] requirements.txt
+       • Added: sentence-transformers>=3.0.0 (pulls in torch, transformers)
+
+TEST RESULTS:
+  69 tests passing (was 44 → now 69)
+  9 test files (was 6 → now 9)
+  All existing tests still pass (0 regressions)
+
+================================================================================
+
+================================================================================
+SESSION 4: PHASE 2 — AUTONOMY & AGENCY (Background Thinking + Social + Auto-Goals)
+================================================================================
+Date: March 6, 2026
+Duration: ~45 minutes implementation + testing
+
+GOAL: Make Manas feel ALIVE — thinks on its own, understands the user,
+      and generates its own goals from experience.
+
+CHANGES MADE:
+
+  1. BACKGROUND AUTONOMOUS LOOP (Manas Thinks When Idle)
+     ──────────────────────────────────────────────────
+     [NEW] src/cognition/autonomous.py
+       • Background daemon thread activates after 60s idle
+       • 4-phase cycle: mind-wander → goal review → self-reflect → consolidate
+       • Generates SpontaneousThoughts pushed to CLI before each prompt
+       • Callback-based brain access (avoids circular imports)
+       • Graceful start/stop with threading.Event
+
+     BEFORE: Manas was silent between interactions
+     AFTER:  Manas shows idle thoughts: "💭 [wandering] I remember..." etc.
+
+  2. SOCIAL MODEL (Understands the User)
+     ───────────────────────────────────────
+     [NEW] src/brain/mechanisms/social.py — UserModel class
+       • Name detection ("I'm X", "My name is X", "Call me X")
+       • Topic frequency tracking (interests over time)
+       • Communication style profiling (concise/verbose, technical level)
+       • Question ratio + command usage tracking
+       • Emotional pattern detection (positive/negative triggers)
+       • JSON persistence (survives restarts)
+       • Generates user context for Ollama system prompt
+
+     CLI prompt now shows user's name when detected:
+       😊 manas [happiness:0.5] (Avi)>
+
+  3. AUTONOMOUS GOAL GENERATION
+     ────────────────────────────
+     [MODIFIED] src/brain/mechanisms/motivation.py
+       • auto_generate_goals() called on every interaction
+       • New topic (novelty > 0.7) → "Learn about X" curiosity goal
+       • Repeated topic (5+ times) → "Get better at X" growth goal
+       • Help-seeking intent + repetition → "Help with X" social goal
+       • Capped at 15 active goals (prevents bloat)
+
+     BEFORE: Manas had only 8 seed goals, never created new ones
+     AFTER:  Manas creates its own goals from conversation patterns
+
+  4. MIND INTEGRATION
+     ────────────────
+     [MODIFIED] src/cognition/mind.py
+       • UserModel initialized + observed on every input
+       • AutonomousLoop started on init with registered callbacks
+       • auto_generate_goals() wired into process_input
+       • User context injected into Ollama system prompt
+       • mind.stop() for graceful shutdown
+       • User model added to save/load persistence
+
+     [MODIFIED] src/interface/chat.py
+       • !user — show what Manas knows about the user
+       • !autonomous — show background thinking state + thoughts
+       • Spontaneous thoughts displayed before each prompt
+       • User name shown in prompt when detected
+       • Shutdown via mind.stop() (stops background thread + saves state)
+
+  5. TESTS
+     ─────
+     [NEW] tests/test_autonomous.py — 12 tests (loop, callbacks, buffer, state)
+     [NEW] tests/test_social.py — 16 tests (name, topics, style, persistence)
+     [NEW] tests/test_auto_goals.py — 7 tests (generation, caps, dedup)
+
+TEST RESULTS:
+  103 tests passing (was 69 → now 103)
+  12 test files (was 9 → now 12)
+  All existing tests still pass (0 regressions)
+
+================================================================================

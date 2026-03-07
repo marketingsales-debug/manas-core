@@ -1,0 +1,18 @@
+# Nmap 7.98 scan initiated Sat Mar  7 15:38:48 2026 as: nmap -Pn -p 80,443,8080,8443,8000,3000,5000,9000,8081,8888 -sV --script http-title,http-enum,ssl-cert,vuln -oA 192.168.1.0_webports 192.168.1.0
+Nmap scan report for 192.168.1.0
+Host is up.
+
+PORT     STATE    SERVICE         VERSION
+80/tcp   filtered http
+443/tcp  filtered https
+3000/tcp filtered ppp
+5000/tcp filtered upnp
+8000/tcp filtered http-alt
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8443/tcp filtered https-alt
+8888/tcp filtered sun-answerbook
+9000/tcp filtered cslistener
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Mar  7 15:39:01 2026 -- 1 IP address (1 host up) scanned in 12.92 seconds

@@ -1,0 +1,103 @@
+{
+  "discovery_date": 1772821433.1173499,
+  "tools": [
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "stars": 73417,
+      "category": "github_repo"
+    },
+    {
+      "name": "sqlmapproject/sqlmap",
+      "description": "Automatic SQL injection and database takeover tool",
+      "url": "https://github.com/sqlmapproject/sqlmap",
+      "stars": 36770,
+      "category": "github_repo"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "stars": 32265,
+      "category": "github_repo"
+    },
+    {
+      "name": "qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "url": "https://github.com/qeeqbox/social-analyzer",
+      "stars": 21935,
+      "category": "github_repo"
+    },
+    {
+      "name": "bee-san/Ciphey",
+      "description": "\u26a1 Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes \u26a1",
+      "url": "https://github.com/bee-san/Ciphey",
+      "stars": 21170,
+      "category": "github_repo"
+    },
+    {
+      "name": "bee-san/RustScan",
+      "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
+      "url": "https://github.com/bee-san/RustScan",
+      "stars": 19360,
+      "category": "github_repo"
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
+      "url": "https://github.com/soxoj/maigret",
+      "stars": 19128,
+      "category": "github_repo"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "stars": 16842,
+      "category": "github_repo"
+    },
+    {
+      "name": "ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "url": "https://github.com/ffuf/ffuf",
+      "stars": 15703,
+      "category": "github_repo"
+    },
+    {
+      "name": "sundowndev/hacker-roadmap",
+      "description": "A collection of hacking tools, resources and references to practice ethical hacking.",
+      "url": "https://github.com/sundowndev/hacker-roadmap",
+      "stars": 15116,
+      "category": "github_repo"
+    },
+    {
+      "name": "Doctor-love/certainly",
+      "description": "A tiny HTTPS reverse proxy for mutual TLS authentication",
+      "url": "https://github.com/Doctor-love/certainly",
+      "stars": 7,
+      "category": "github_repo"
+    },
+    {
+      "name": "SentriusLLC/Sentrius",
+      "description": "Command and Control your Infra and Agents. Guardrails for agents and humans! Single pane of glass to manage infrastructure and tooling. Your Human and Agent gateway. Est 2023",
+      "url": "https://github.com/SentriusLLC/Sentrius",
+      "stars": 7,
+      "category": "github_repo"
+    },
+    {
+      "name": "route1337/docker-cf-mnet-server",
+      "description": "A simple webserver that serves some basic data for Cloudflare ZTA Managed Network usage",
+      "url": "https://github.com/route1337/docker-cf-mnet-server",
+      "stars": 3,
+      "category": "github_repo"
+    },
+    {
+      "name": "Cybersecurity-Group-SP/Direct-Mail.llc",
+      "description": "PaPNDA - ZIT - Zero Trust Inspections",
+      "url": "https://github.com/Cybersecurity-Group-SP/Direct-Mail.llc",
+      "stars": 1,
+      "category": "github_repo"
+    }
+  ]
+}

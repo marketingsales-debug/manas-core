@@ -1,0 +1,21 @@
+{
+  "followers": 0,
+  "posts_created": 0,
+  "engagement_rate": 0.0,
+  "growth_cycles": 0,
+  "revenue_generated": 0.0,
+  "platforms": {
+    "x": {
+      "active": false,
+      "token": ""
+    },
+    "reddit": {
+      "active": false,
+      "token": ""
+    },
+    "nostr": {
+      "active": true,
+      "relay": "wss://relay.damus.io"
+    }
+  }
+}
