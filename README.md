@@ -75,5 +75,8 @@ python sovereign_run.py
 ## 🛡️ Security & Privacy
 Manas is designed with security in mind. Local models are prioritized via Ollama, and sensitive configuration files are automatically excluded from version control via `.gitignore`.
 
+## 📄 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ---
 *Built with ❤️ for the future of Autonomous General Intelligence.*
