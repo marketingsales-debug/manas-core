@@ -79,4 +79,7 @@ Manas is designed with security in mind. Local models are prioritized via Ollama
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
+**Abhinav Badesha Pattan** is the sole owner and creator of this project.
+
+---
 *Built with ❤️ for the future of Autonomous General Intelligence.*

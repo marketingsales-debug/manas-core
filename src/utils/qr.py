@@ -409,6 +409,25 @@ def get_supported_formats() -> Dict[str, Dict[str, Any]]:
     """
     return qr_generator.get_supported_formats()
 
+def generate_text_qr(data: str) -> str:
+    """
+    Generate a text-based (ANSI) QR code for the terminal.
+    
+    Args:
+        data: Data to encode
+        
+    Returns:
+        String containing the text-based QR code
+    """
+    qr = qrcode.QRCode()
+    qr.add_data(data)
+    qr.make(fit=True)
+    
+    f = io.StringIO()
+    qr.print_ascii(out=f, invert=True)
+    f.seek(0)
+    return f.read()
+
 # Predefined module drawers for convenience
 SQUARE_DRAWER = SquareModuleDrawer()
 GAPPED_SQUARE_DRAWER = GappedSquareModuleDrawer()
